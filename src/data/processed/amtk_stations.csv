@@ -1,0 +1,537 @@
+Arrival Station Code,Arrival Station,Arrival Station Type,City,Address 01,Address 02,ZIP Code,State,Division,Region,Country,Latitude,Longitude
+ABE,Aberdeen,Station Building (with waiting room),Aberdeen,18 East Bel Air Avenue,,21001,Maryland,South Atlantic,South,United States,39.508447,-76.16326
+ABQ,Albuquerque,Station Building (with waiting room),Albuquerque,320 1st Street SW,,87102,New Mexico,Mountain,West,United States,35.082061,-106.647975
+ACA,Antioch-Pittsburg,Platform with Shelter,Antioch,100 I Street,,94509,California,Pacific,West,United States,38.0177,-121.816024
+ACD,Arcadia,Station Building (with waiting room),Arcadia,13700 Highway 21,,63621,Missouri,West North Central,Midwest,United States,37.592161,-90.624403
+ADM,Ardmore,Platform only (no shelter),Ardmore,251 East Main Street,,73401,Oklahoma,West South Central,South,United States,34.172465,-97.12551
+AKY,Ashland,Platform with Shelter,Ashland,99 15th Street,,41101,Kentucky,East South Central,South,United States,38.480875,-82.639603
+ALB,Albany-Rensselaer,Station Building (with waiting room),Rensselaer,525 East Street,,12144,New York,Middle Atlantic,Northeast,United States,42.641029,-73.741147
+ALC,Alliance,Platform only (no shelter),Alliance,820 East Main Street,,44601,Ohio,East North Central,Midwest,United States,40.921275,-81.092904
+ALD,Alderson,Platform with Shelter,Alderson,1 C&O Plaza on Railroad Avenue,,24910,West Virginia,South Atlantic,South,United States,37.724277,-80.644856
+ALI,Albion,Station Building (with waiting room),Albion,300 North Eaton Street,,49224,Michigan,East North Central,Midwest,United States,42.247196,-84.755814
+ALN,Alton,Station Building (with waiting room),Alton,1 Golf Road,,62002,Illinois,East North Central,Midwest,United States,38.921007,-90.157298
+ALP,Alpine,Station Building (with waiting room),Alpine,102 West Holland Avenue,,79830,Texas,West South Central,South,United States,30.357302,-103.661513
+ALT,Altoona,Station Building (with waiting room),Altoona,1231 11th Avenue,,16601,Pennsylvania,Middle Atlantic,Northeast,United States,40.514475,-78.40162
+ALX,Alexandria,Station Building (with waiting room),Alexandria,110 Callahan Drive,,22301,Virginia,South Atlantic,South,United States,38.806503,-77.06233
+ALY,Albany,Station Building (with waiting room),Albany,110 10th Avenue SW,,97321,Oregon,Pacific,West,United States,44.630464,-123.102774
+AMS,Amsterdam,Station Building (with waiting room),Amsterdam,466 West Main Street,,12010,New York,Middle Atlantic,Northeast,United States,42.953719,-74.2195
+ANA,Anaheim,Station Building (with waiting room),Anaheim,2626 East Katella Avenue,,92806,California,Pacific,West,United States,33.803803,-117.877308
+ARB,Ann Arbor,Station Building (with waiting room),Ann Arbor,325 Depot Street,,48104,Michigan,East North Central,Midwest,United States,42.287692,-83.743154
+ARD,Ardmore,Station Building (with waiting room),Ardmore,39 Station Avenue,,19003,Pennsylvania,Middle Atlantic,Northeast,United States,40.008278,-75.290399
+ARK,Arkadelphia,Station Building (with waiting room),Arkadelphia,798 South 5th Street,,71923,Arkansas,West South Central,South,United States,34.113919,-93.053284
+ARN,Auburn,Platform with Shelter,Auburn,277 Nevada Street,,95603,California,Pacific,West,United States,38.903638,-121.083187
+ASD,Ashland,Platform with Shelter,Ashland,112 North Railroad Avenue,,23005,Virginia,South Atlantic,South,United States,37.759596,-77.481304
+ATL,Atlanta,Station Building (with waiting room),Atlanta,"1688 Peachtree Street, NW",,30309,Georgia,South Atlantic,South,United States,33.799445,-84.392477
+ATN,Anniston,Station Building (with waiting room),Anniston,126 West 4th Street,,36201,Alabama,East South Central,South,United States,33.649112,-85.832145
+AUS,Austin,Station Building (with waiting room),Austin,250 North Lamar Boulevard,,78703,Texas,West South Central,South,United States,30.269449,-97.75694
+BAL,Baltimore (Penn Station),Station Building (with waiting room),Baltimore,1500 North Charles Street,,21201,Maryland,South Atlantic,South,United States,39.307302,-76.615688
+BAM,Bangor,Station Building (with waiting room),Bangor,541 Railroad Street,,49013,Michigan,East North Central,Midwest,United States,42.314519,-86.111646
+BAR,Barstow (Amtrak),Platform with Shelter,Barstow,685 North First Avenue,,92311,California,Pacific,West,United States,34.90482,-117.025435
+BBK,Burbank,Station Building (with waiting room),Burbank,201 North Front Street,,91502,California,Pacific,West,United States,34.171299,-118.2999
+BBY,Boston (Back Bay Station),Station Building (with waiting room),Boston,145 Dartmouth Street,,02116,Massachusetts,New England,Northeast,United States,42.347317,-71.075828
+BCV,Burke Centre,Platform with Shelter,Burke,10399 Premier Court,,22015,Virginia,South Atlantic,South,United States,38.797271,-77.29879
+BEL,Bellingham,Station Building (with waiting room),Bellingham,401 Harris Avenue,,98225,Washington,Pacific,West,United States,48.720263,-122.511255
+BEN,Benson,Platform with Shelter,Benson,105 East 4th Street,,85602,Arizona,Mountain,West,United States,31.968758,-110.296904
+BER,Berlin,Platform with Shelter,Berlin,51 Depot Road,,06037,Connecticut,New England,Northeast,United States,41.635595,-72.765274
+BFD,Bakersfield,Station Building (with waiting room),Bakersfield,601 Truxtun Avenue,,93301,California,Pacific,West,United States,35.37214,-119.00821
+BFX,Buffalo (Exchange Street Station),Station Building (with waiting room),Buffalo,75 Exchange Street,,14203,New York,Middle Atlantic,Northeast,United States,42.878449,-78.873748
+BHM,Birmingham,Station Building (with waiting room),Birmingham,1801 Morris Avenue,,35203,Alabama,East South Central,South,United States,33.512937,-86.807023
+BKY,Berkeley,Platform with Shelter,Berkeley,700 University Avenue,,94710,California,Pacific,West,United States,37.867254,-122.300707
+BLF,Bellows Falls,Station Building (with waiting room),Bellows Falls,54 Depot Street,,05101,Vermont,New England,Northeast,United States,43.13654,-72.444597
+BMT,Beaumont,Platform with Shelter,Beaumont,2555 West Cedar Street,,77704,Texas,West South Central,South,United States,30.076458,-94.127367
+BNC,Burlington,Station Building (with waiting room),Burlington,101 North Main Street,,27217,North Carolina,South Atlantic,South,United States,36.094225,-79.434531
+BNG,Bingen-White Salmon,Platform with Shelter,Bingen,Highway 14 and Walnut Street,,98605,Washington,Pacific,West,United States,45.71502,-121.46873
+BNL,Bloomington-Normal,Station Building (with waiting room),Normal,11 Uptown Circle,,61761,Illinois,East North Central,Midwest,United States,40.50901,-88.984306
+BON,Boston (North Station),Station Building (with waiting room),Boston,135 Causeway Street,,02114,Massachusetts,New England,Northeast,United States,42.366235,-71.061122
+BOS,Boston (South Station),Station Building (with waiting room),Boston,2 South Station,,02110,Massachusetts,New England,Northeast,United States,42.352311,-71.055304
+BRA,Brattleboro,Station Building (with waiting room),Brattleboro,10 Vernon Road,,05301,Vermont,New England,Northeast,United States,42.850849,-72.556497
+BRH,Brookhaven,Station Building (with waiting room),Brookhaven,440 North Railroad Avenue,,39601,Mississippi,East South Central,South,United States,31.582961,-90.44107
+BRK,Brunswick,Station Building (with waiting room),Brunswick,16 Station Avenue,,04011,Maine,New England,Northeast,United States,43.911388,-69.965541
+BRL,Burlington,Station Building (with waiting room),Burlington,300 South Main Street,,52601,Iowa,West North Central,Midwest,United States,40.805788,-91.101951
+BRO,Browning,Platform with Shelter,Browning,Heart Butte Road and Depot Road,,59417,Montana,Mountain,West,United States,48.534067,-113.013151
+BRP,Bridgeport,Station Building (with waiting room),Bridgeport,525 Water Street,,06604,Connecticut,New England,Northeast,United States,41.178006,-73.187539
+BTL,Battle Creek,Station Building (with waiting room),Battle Creek,119 McCamly Street South,,49017,Michigan,East North Central,Midwest,United States,42.318453,-85.187825
+BTN,Burlington (Union Station),Station Building (with waiting room),Burlington,1 Main Street,,05401,Vermont,New England,Northeast,United States,44.4757,-73.21927
+BUF,Buffalo-Depew,Station Building (with waiting room),Depew,55 Dick Road,,14043,New York,Middle Atlantic,Northeast,United States,42.907017,-78.726584
+BUR,Burbank (Airport),Platform with Shelter,Burbank,3750 Empire Avenue,,91505,California,Pacific,West,United States,34.193072,-118.353767
+BWI,BWI Thurgood Marshall Airport Station,Station Building (with waiting room),Baltimore,7 Amtrak Way,,21240,Maryland,South Atlantic,South,United States,39.192362,-76.6943
+BYN,Bryan,Station Building (with waiting room),Bryan,Paige and Lynn Street,,43506,Ohio,East North Central,Midwest,United States,41.480319,-84.551799
+CAM,Camden,Station Building (with waiting room),Camden,1060 West Dekalb Street,,29020,South Carolina,South Atlantic,South,United States,34.248157,-80.62519
+CBN,Canadian Border New York,,,,,,New York,Middle Atlantic,Northeast,United States,,
+CBR,Cleburne,Platform with Shelter,Cleburne,206 North Border Street,,76031,Texas,West South Central,South,United States,32.349743,-97.382333
+CBS,Columbus,Station Building (with waiting room),Columbus,359 North Ludington Street,,53925,Wisconsin,East North Central,Midwest,United States,43.340611,-89.012609
+CDL,Carbondale (Amtrak),Station Building (with waiting room),Carbondale,401 South Illinois Avenue,,62901,Illinois,East North Central,Midwest,United States,37.724235,-89.216628
+CEN,Centralia,Station Building (with waiting room),Centralia,110 South Oak St.,,62801,Illinois,East North Central,Midwest,United States,38.527531,-89.136118
+CHI,Chicago (Union Station),Station Building (with waiting room),Chicago,255 South Clinton Street,,60606,Illinois,East North Central,Midwest,United States,41.878992,-87.641015
+CHM,Champaign-Urbana,Station Building (with waiting room),Champaign,45 East University Avenue,,61820,Illinois,East North Central,Midwest,United States,40.115843,-88.241366
+CHS,Charleston,Station Building (with waiting room),North Charleston,4565 Gaynor Avenue,North Charleston Transit Center,29405,South Carolina,South Atlantic,South,United States,32.875473,-79.998048
+CHW,Charleston,Station Building (with waiting room),Charleston,350 MacCorkle Avenue - Southeast,,25314,West Virginia,South Atlantic,South,United States,38.346368,-81.638494
+CIC,Chico,Platform only (no shelter),Chico,450 Orange Street,,95928,California,Pacific,West,United States,39.723259,-121.845861
+CIN,Cincinnati (Union Terminal),Station Building (with waiting room),Cincinnati,1301 Western Avenue,,45203,Ohio,East North Central,Midwest,United States,39.109927,-84.537061
+CLA,Claremont,Platform with Shelter,Claremont,Plains Road and Maple Avenue,,03743,New Hampshire,New England,Northeast,United States,43.36833,-72.377644
+CLB,Columbia,Station Building (with waiting room),Columbia,850 Pulaski Street,,29201,South Carolina,South Atlantic,South,United States,33.994297,-81.04049
+CLE,Cleveland,Station Building (with waiting room),Cleveland,200 Cleveland Memorial Shoreway,,44114,Ohio,East North Central,Midwest,United States,41.505787,-81.696172
+CLF,Clifton Forge,Station Building (with waiting room),Clifton Forge,307 East Ridgeway Street,,24422,Virginia,South Atlantic,South,United States,37.814521,-79.827363
+CLP,Culpeper,Station Building (with waiting room),Culpeper,111 South Commerce Street,,22701,Virginia,South Atlantic,South,United States,38.47236,-77.993421
+CLT,Charlotte,Station Building (with waiting room),Charlotte,1914 North Tryon Street,,28206,North Carolina,South Atlantic,South,United States,35.241403,-80.822812
+CML,Camarillo,Platform only (no shelter),Camarillo,30 Lewis Road,,93010,California,Pacific,West,United States,34.215933,-119.034114
+CMO,Chemult,Platform with Shelter,Chemult,Palmer/Kranz Street and Depot Street,,97731,Oregon,Pacific,West,United States,43.216784,-121.781594
+CNL,Colonel Allensworth Park,Platform only (no shelter),Allensworth,4011 Grant Drive,,93219,California,Pacific,West,United States,35.864338,-119.385865
+CNV,Castleton,Station Building (with waiting room),Castleton,266 Main Street,,05735,Vermont,New England,Northeast,United States,43.613382,-73.171337
+COC,Corcoran,Station Building (with waiting room),Corcoran,1099 Otis Avenue,,93212,California,Pacific,West,United States,36.098516,-119.55705
+COI,Connersville,Platform with Shelter,Connersville,1012 Eastern Avenue,,47331,Indiana,East North Central,Midwest,United States,39.645969,-85.13338
+COT,Coatesville,Platform with Shelter,Coatesville,Third Avenue and Fleetwood Street,,19320,Pennsylvania,Middle Atlantic,Northeast,United States,39.985688,-75.820929
+COV,Connellsville,Platform with Shelter,Connellsville,North Water Street & West Peach Street,,15425,Pennsylvania,Middle Atlantic,Northeast,United States,40.020282,-79.592813
+COX,Colfax,Station Building (with waiting room),Colfax,99 Railroad Street,,95713,California,Pacific,West,United States,39.099172,-120.953075
+CPN,Carpinteria,Platform with Shelter,Carpinteria,475 Linden Avenue,,93013,California,Pacific,West,United States,34.39678,-119.522975
+CRF,Crawfordsville,Platform with Shelter,Crawfordsville,400 North Green Street,,47933,Indiana,East North Central,Midwest,United States,40.044705,-86.899187
+CRN,Creston,Station Building (with waiting room),Creston,116 West Adams Street,,50801,Iowa,West North Central,Midwest,United States,41.05692,-94.361617
+CRT,Croton Harmon,Station Building (with waiting room),Croton-on-Hudson,4 Veteran's Plaza and 1 Croton Point Avenue,,10520,New York,Middle Atlantic,Northeast,United States,41.189903,-73.882394
+CRV,Carlinville,Station Building (with waiting room),Carlinville,128 Alton Road,,62626,Illinois,East North Central,Midwest,United States,39.279295,-89.889276
+CSN,Clemson,Station Building (with waiting room),Clemson,1105 Tiger Boulevard,,29631,South Carolina,South Atlantic,South,United States,34.691115,-82.832501
+CTL,Centralia,Station Building (with waiting room),Centralia,210 Railroad Avenue,,98531,Washington,Pacific,West,United States,46.71747,-122.953062
+CUM,Cumberland (Amtrak Station),Station Building (with waiting room),Cumberland,201 East Harrison Street,,21502,Maryland,South Atlantic,South,United States,39.650628,-78.758
+CUT,Cut Bank,Station Building (with waiting room),Cut Bank,101 BNSF Industrial Site,,59427,Montana,Mountain,West,United States,48.638364,-112.331584
+CVS,Charlottesville,Station Building (with waiting room),Charlottesville,810 West Main Street,,22903,Virginia,South Atlantic,South,United States,38.031484,-78.491684
+CWH,Cornwells Heights,Platform with Shelter,Cornwells Heights,700 Station Avenue,,19020,Pennsylvania,Middle Atlantic,Northeast,United States,40.071663,-74.952187
+CWT,Chatsworth,Platform with Shelter,Chatsworth,10040 Old Depot Plaza Road,,91311,California,Pacific,West,United States,34.253205,-118.599417
+CYN,Cary,Station Building (with waiting room),Cary,211 North Academy Street,,27513,North Carolina,South Atlantic,South,United States,35.788294,-78.782246
+DAL,Dallas (Eddie Bernice Johnson Union Station),Station Building (with waiting room),Dallas,400 South Houston Street,,75202,Texas,West South Central,South,United States,32.776094,-96.807235
+DAN,Danville,Station Building (with waiting room),Danville,677 Craghead Street,,24541,Virginia,South Atlantic,South,United States,36.58409,-79.383968
+DAV,Davis,Station Building (with waiting room),Davis,840 Second Street,,95616,California,Pacific,West,United States,38.543562,-121.737707
+DDG,Dodge City,Station Building (with waiting room),Dodge City,201 East Wyatt Earp Boulevard,,67801,Kansas,West North Central,Midwest,United States,37.752306,-100.016961
+DEM,Deming,Platform with Shelter,Deming,400 East Railroad Avenue,,88030,New Mexico,Mountain,West,United States,32.27177,-107.754346
+DEN,Denver (Union Station),Station Building (with waiting room),Denver,1701 Wynkoop Street,,80202,Colorado,Mountain,West,United States,39.752959,-104.999929
+DER,Dearborn,Station Building (with waiting room),Dearborn,21201 Michigan Avenue,,48124,Michigan,East North Central,Midwest,United States,42.307167,-83.235311
+DET,Detroit,Station Building (with waiting room),Detroit,11 West Baltimore Avenue,,48202,Michigan,East North Central,Midwest,United States,42.368097,-83.072397
+DFB,Deerfield Beach,Station Building (with waiting room),Deerfield Beach,1300 West Hillsboro Boulevard,,33442,Florida,South Atlantic,South,United States,26.317069,-80.122147
+DHM,Durham,Station Building (with waiting room),Durham,3 Depot Road,,03824,New Hampshire,New England,Northeast,United States,43.139328,-70.936013
+DIL,Dillon,Station Building (with waiting room),Dillon,100 North Railroad Avenue,,29536,South Carolina,South Atlantic,South,United States,34.417647,-79.372301
+DLB,Delray Beach,Platform with Shelter,Delray Beach,345 South Congress Avenue,,33444,Florida,South Atlantic,South,United States,26.454021,-80.091154
+DLD,DeLand,Station Building (with waiting room),DeLand,2491 Old New York Avenue,,32720,Florida,South Atlantic,South,United States,29.017849,-81.352477
+DLK,Detroit Lakes,Station Building (with waiting room),Detroit Lakes,116 Pioneer Street,,56501,Minnesota,West North Central,Midwest,United States,46.819692,-95.845998
+DNC,Durham,Station Building (with waiting room),Durham,601 West Main Street,,27701,North Carolina,South Atlantic,South,United States,35.997347,-78.906299
+DNK,Denmark,Station Building (with waiting room),Denmark,200 West Baruch Street,,29042,South Carolina,South Atlantic,South,United States,33.326184,-81.143635
+DOA,Dowagiac,Station Building (with waiting room),Dowagiac,200 Depot Drive,,49047,Michigan,East North Central,Midwest,United States,41.980941,-86.109041
+DOV,Dover,Station Building (with waiting room),Dover,33 Chestnut Street,,03820,New Hampshire,New England,Northeast,United States,43.197968,-70.878361
+DOW,Downingtown,Platform with Shelter,Downingtown,159 Viaduct Avenue,,19335,Pennsylvania,Middle Atlantic,Northeast,United States,40.002193,-75.710775
+DQN,Du Quoin,Station Building (with waiting room),Du Quoin,20 North Chestnut Street,,62832,Illinois,East North Central,Midwest,United States,38.012328,-89.240254
+DRD,Durand,Station Building (with waiting room),Durand,200 South Railroad Street,,48429,Michigan,East North Central,Midwest,United States,42.909495,-83.98232
+DRT,Del Rio,Platform only (no shelter),Del Rio,100 North Main Street,,78840,Texas,West South Central,South,United States,29.362202,-100.902662
+DUN,Dunsmuir,Station Building (with waiting room),Dunsmuir,5750 Sacramento Avenue,,96025,California,Pacific,West,United States,41.211127,-122.270587
+DVL,Devils Lake,Station Building (with waiting room),Devils Lake,Railroad Avenue and Third Street,,58301,North Dakota,West North Central,Midwest,United States,48.110468,-98.861372
+DWT,Dwight,Station Building (with waiting room),Dwight,401 South Columbia Street,,60420,Illinois,East North Central,Midwest,United States,41.089854,-88.430707
+DYE,Dyer,Platform with Shelter,Dyer,913 Sheffield Avenue,,46311,Indiana,East North Central,Midwest,United States,41.515413,-87.518076
+EDM,Edmonds,Station Building (with waiting room),Edmonds,211 Railroad Avenue,,98020,Washington,Pacific,West,United States,47.811081,-122.384141
+EFG,Effingham,Station Building (with waiting room),Effingham,401 West National Avenue,,62401,Illinois,East North Central,Midwest,United States,39.117059,-88.54711
+EKH,Elkhart,Station Building (with waiting room),Elkhart,131 Tyler Avenue,,46515,Indiana,East North Central,Midwest,United States,41.680748,-85.971848
+ELK,Elko,Platform with Shelter,Elko,1300 Water Street (Train 5),1301 Sharps Access Road (Train 6),89801,Nevada,Mountain,West,United States,40.836483,-115.75053
+ELP,El Paso (Union Depot),Station Building (with waiting room),El Paso,700 West San Francisco Avenue,,79901,Texas,West South Central,South,United States,31.757346,-106.495644
+ELT,Elizabethtown,Station Building (with waiting room),Elizabethtown,50 South Wilson Avenue,,17022,Pennsylvania,Middle Atlantic,Northeast,United States,40.147028,-76.612234
+ELY,Elyria,Platform only (no shelter),Elyria,410 East River Road,,44035,Ohio,East North Central,Midwest,United States,41.370033,-82.096685
+EMY,Emeryville,Station Building (with waiting room),Emeryville,5885 Horton Street,,94608,California,Pacific,West,United States,37.840474,-122.291615
+EPH,Ephrata,Platform with Shelter,Ephrata,90 Alder Street NW,,98823,Washington,Pacific,West,United States,47.320948,-119.549267
+ERI,Erie,Station Building (with waiting room),Erie,125 West 14th Street,,16501,Pennsylvania,Middle Atlantic,Northeast,United States,42.120847,-80.082444
+ESM,Essex,Platform only (no shelter),Essex,290 Izaak Walton Inn Road,,59916,Montana,Mountain,West,United States,48.275543,-113.610942
+ESX,Essex Junction,Station Building (with waiting room),Essex Junction,29 Railroad Avenue,,05452,Vermont,New England,Northeast,United States,44.492466,-73.110277
+EUG,Eugene (Amtrak),Station Building (with waiting room),Eugene,433 Willamette Street,,97401,Oregon,Pacific,West,United States,44.055043,-123.092361
+EVR,Everett,Station Building (with waiting room),Everett,3201 Smith Avenue,,98201,Washington,Pacific,West,United States,47.975401,-122.197858
+EWR,Newark Liberty International Airport,Station Building (with waiting room),Newark,3 Brewster Road,,07114,New Jersey,Middle Atlantic,Northeast,United States,40.696618,-74.18229
+EXR,Exeter,Platform with Shelter,Exeter,60 Lincoln Street,,03833,New Hampshire,New England,Northeast,United States,42.98102,-70.9587
+EXT,Exton,Station Building (with waiting room),Exton,445 Walkertown Road,,19341,Pennsylvania,Middle Atlantic,Northeast,United States,40.019291,-75.621713
+FAL,Falmouth,,Falmouth,Muirfield Road at Railroad Crossing,,04105,Maine,New England,Northeast,United States,43.7696,-70.2595
+FAR,Fargo,Station Building (with waiting room),Fargo,420 4th Street North,,58102,North Dakota,West North Central,Midwest,United States,46.880982,-96.785372
+FAY,Fayetteville,Station Building (with waiting room),Fayetteville,472 Hay Street,,28301,North Carolina,South Atlantic,South,United States,35.054993,-78.884788
+FBG,Fredericksburg,Platform with Shelter,Fredericksburg,425 Princess Anne Street,,22401,Virginia,South Atlantic,South,United States,38.29808,-77.457707
+FED,Fort Edward-Glens Falls,Platform only (no shelter),Fort Edward,70 East Street,,12828,New York,Middle Atlantic,Northeast,United States,43.269603,-73.58055
+FFV,Fairfield-Vacaville,Station Building (with waiting room),Fairfield,4921 Vanden Road,,94533,California,Pacific,West,United States,38.285626,-121.967926
+FLG,Flagstaff (Amtrak Station),Station Building (with waiting room),Flagstaff,1 East Route 66,,86001,Arizona,Mountain,West,United States,35.197374,-111.648871
+FLN,Flint,Station Building (with waiting room),Flint,1407 South Dort Highway,,48503,Michigan,East North Central,Midwest,United States,43.015425,-83.651728
+FLO,Florence,Station Building (with waiting room),Florence,805 East Day Street,,29506,South Carolina,South Atlantic,South,United States,34.199157,-79.757056
+FMD,Fort Madison,Station Building (with waiting room),Fort Madison,810 10th Street,Suite 1,52627,Iowa,West North Central,Midwest,United States,40.629558,-91.313529
+FMG,Fort Morgan,Station Building (with waiting room),Fort Morgan,South Ensign Street and Main Street,,80701,Colorado,Mountain,West,United States,40.247169,-103.802818
+FMT,Fremont (Capitol Trains),Station Building (with waiting room),Fremont,37260 Fremont Boulevard,,94536,California,Pacific,West,United States,37.559093,-122.007496
+FNO,Fresno,Station Building (with waiting room),Fresno,2650 Tulare Street,,93721,California,Pacific,West,United States,36.738457,-119.782926
+FRA,Framingham,Platform with Shelter,Framingham,417 Waverly Street,,01702,Massachusetts,New England,Northeast,United States,42.275993,-71.420033
+FRE,Freeport,Station Building (with waiting room),Freeport,23 Depot Road,,04032,Maine,New England,Northeast,United States,43.855035,-70.102358
+FTC,Ticonderoga,Platform with Shelter,Ticonderoga,NYS Hwy 74 and Sandy Redoubt,,12883,New York,Middle Atlantic,Northeast,United States,43.853788,-73.389681
+FTL,Fort Lauderdale,Station Building (with waiting room),Fort Lauderdale,200 Southwest 21st Terrace,,33312,Florida,South Atlantic,South,United States,26.119256,-80.17
+FTN,Fulton,Station Building (with waiting room),Fulton,21 Newton Road,,42041,Kentucky,East South Central,South,United States,36.525704,-88.888772
+FTW,Fort Worth,Station Building (with waiting room),Fort Worth,1001 Jones Street,,76102,Texas,West South Central,South,United States,32.752563,-97.326673
+FUL,Fullerton,Station Building (with waiting room),Fullerton,120 East Santa Fe Avenue,,92832,California,Pacific,West,United States,33.868969,-117.922849
+GAC,Santa Clara (Great America),Platform only (no shelter),Santa Clara,5099 Stars and Stripes Drive,,95054,California,Pacific,West,United States,37.406778,-121.967003
+GAS,Gastonia,Station Building (with waiting room),Gastonia,350 Hancock Street,,28054,North Carolina,South Atlantic,South,United States,35.269186,-81.162366
+GBB,Galesburg,Station Building (with waiting room),Galesburg,225 South Seminary Street,,61401,Illinois,East North Central,Midwest,United States,40.944678,-90.364106
+GCK,Garden City,Station Building (with waiting room),Garden City,100 North 7th Street,,67846,Kansas,West North Central,Midwest,United States,37.964365,-100.873256
+GDL,Glendale,Platform with Shelter,Glendale,400 West Cerritos Avenue,,91204,California,Pacific,West,United States,34.123706,-118.258868
+GFD,Greenfield,Station Building (with waiting room),Greenfield,12 Olive Street,,01301,Massachusetts,New England,Northeast,United States,42.585458,-72.600765
+GFK,Grand Forks,Station Building (with waiting room),Grand Forks,5555 DeMers Avenue,,58201,North Dakota,West North Central,Midwest,United States,47.917522,-97.110835
+GGW,Glasgow,Station Building (with waiting room),Glasgow,424 1st Avenue South,,59230,Montana,Mountain,West,United States,48.194854,-106.636188
+GJT,Grand Junction,Station Building (with waiting room),Grand Junction,339 South 1st Street,,81501,Colorado,Mountain,West,United States,39.064375,-108.569929
+GLE,Gainesville,Station Building (with waiting room),Gainesville,605 East California Street,,76240,Texas,West South Central,South,United States,33.625159,-97.140896
+GLM,Gilman,Platform with Shelter,Gilman,800 US Highway 24 West,,60938,Illinois,East North Central,Midwest,United States,40.752547,-87.998055
+GLN,Glenview,Station Building (with waiting room),Glenview,1116 Depot Street,,60025,Illinois,East North Central,Midwest,United States,42.075038,-87.805562
+GLP,Gallup,Platform only (no shelter),Gallup,201 East Highway 66,,87301,New Mexico,Mountain,West,United States,35.529176,-108.740548
+GNB,Greensburg (Amtrak),Platform with Shelter,Greensburg,Harrison Avenue and Seton Hill Drive,,15601,Pennsylvania,Middle Atlantic,Northeast,United States,40.304986,-79.546893
+GNS,Gainesville,Station Building (with waiting room),Gainesville,116 Industrial Boulevard,,30501,Georgia,South Atlantic,South,United States,34.288897,-83.819694
+GPK,East Glacier Park,Station Building (with waiting room),East Glacier Park,400 Highway 49 North,,59434,Montana,Mountain,West,United States,48.442333,-113.219523
+GRA,Granby,Station Building (with waiting room),Granby,438 Railroad Avenue,,80446,Colorado,Mountain,West,United States,40.084188,-105.935503
+GRI,Green River,Platform with Shelter,Green River,250 South Broadway,,84525,Utah,Mountain,West,United States,38.992039,-110.165228
+GRO,Greensboro,Station Building (with waiting room),Greensboro,236 East Washington Street,,27401,North Carolina,South Atlantic,South,United States,36.069797,-79.78708
+GRR,Grand Rapids,Station Building (with waiting room),Grand Rapids,440 Century Avenue SW,,49503,Michigan,East North Central,Midwest,United States,42.955788,-85.672447
+GRV,Greenville,Station Building (with waiting room),Greenville,1120 West Washington Street,,29601,South Carolina,South Atlantic,South,United States,34.858256,-82.413486
+GSC,Glenwood Springs,Station Building (with waiting room),Glenwood Springs,413 7th Street,,81601,Colorado,Mountain,West,United States,39.547903,-107.323218
+GTA,Goleta,Platform with Shelter,Goleta,25 South La Patera Lane,,93117,California,Pacific,West,United States,34.437729,-119.843092
+GUA,Guadalupe-Santa Maria,Station Building (with waiting room),Guadalupe,330 Guadalupe Street,,93434,California,Pacific,West,United States,34.962927,-120.57341
+GVB,Grover Beach,Platform with Shelter,Grover Beach,180 West Grand Avenue,,93433,California,Pacific,West,United States,35.12126,-120.629266
+GWD,Greenwood,Station Building (with waiting room),Greenwood,Carrollton Avenue and East Gibson Street,,38930,Mississippi,East South Central,South,United States,33.517159,-90.176454
+HAM,Hamlet,Station Building (with waiting room),Hamlet,2 Main Street,,28345,North Carolina,South Atlantic,South,United States,34.883663,-79.699218
+HAR,Harrisburg,Station Building (with waiting room),Harrisburg,4th and Chestnut Streets,,17101,Pennsylvania,Middle Atlantic,Northeast,United States,40.26205,-76.878256
+HAS,Hastings,Station Building (with waiting room),Hastings,501 West First Street,,68901,Nebraska,West North Central,Midwest,United States,40.584276,-98.387534
+HAV,Havre,Station Building (with waiting room),Havre,235 Main Street,,59501,Montana,Mountain,West,United States,48.554465,-109.678352
+HAY,Hayward,Platform with Shelter,Hayward,22555 Meekland Avenue,,94541,California,Pacific,West,United States,37.665997,-122.099277
+HAZ,Hazlehurst,Platform with Shelter,Hazlehurst,North Ragsdale Avenue and East Conway Street,,39083,Mississippi,East South Central,South,United States,31.86132,-90.394347
+HBG,Hattiesburg,Station Building (with waiting room),Hattiesburg,308 Newman Street,,39401,Mississippi,East South Central,South,United States,31.326921,-89.286463
+HEM,Hermann,Station Building (with waiting room),Hermann,301 Wharf Street,,65041,Missouri,West North Central,Midwest,United States,38.707283,-91.432558
+HER,Helper,Station Building (with waiting room),Helper,1 Depot Street,,84526,Utah,Mountain,West,United States,39.684036,-110.853894
+HFD,Hartford,Station Building (with waiting room),Hartford,One Union Place,,06103,Connecticut,New England,Northeast,United States,41.768761,-72.681314
+HFY,Harpers Ferry,Platform with Shelter,Harpers Ferry,Potomac Street & Shenandoah Street,,25425,West Virginia,South Atlantic,South,United States,39.324452,-77.731078
+HGD,Huntingdon,Station Building (with waiting room),Huntingdon,Fourth and Allegheny Streets,,16652,Pennsylvania,Middle Atlantic,Northeast,United States,40.483665,-78.01178
+HHL,Haverhill,Platform with Shelter,Haverhill,Washington Street at Railroad Square,,01832,Massachusetts,New England,Northeast,United States,42.773297,-71.086375
+HIN,Hinton,Station Building (with waiting room),Hinton,100 Second Avenue,,25951,West Virginia,South Atlantic,South,United States,37.675037,-80.892232
+HLD,Holdrege,Platform only (no shelter),Holdrege,200 East Avenue,,68949,Nebraska,West North Central,Midwest,United States,40.436013,-99.370077
+HLK,Holyoke,Platform with Shelter,Holyoke,74 Main Street,,01041,Massachusetts,New England,Northeast,United States,42.204156,-72.602309
+HMD,Hammond,Station Building (with waiting room),Hammond,404 N.W. Railroad Avenue,,70401,Louisiana,West South Central,South,United States,30.50718,-90.462169
+HMI,Hammond-Whiting,Station Building (with waiting room),Hammond,1135 North Calumet Avenue,,46320,Indiana,East North Central,Midwest,United States,41.691155,-87.506511
+HMW,Homewood,Station Building (with waiting room),Homewood,18015 Park Avenue,,60430,Illinois,East North Central,Midwest,United States,41.562446,-87.668685
+HNF,Hanford,Station Building (with waiting room),Hanford,200 Santa Fe Avenue #A,,93230,California,Pacific,West,United States,36.326078,-119.651816
+HOL,Hollywood,Station Building (with waiting room),Hollywood,3001 Hollywood Boulevard,,33021,Florida,South Atlantic,South,United States,26.011641,-80.167884
+HOM,Holland,Station Building (with waiting room),Holland,171 Lincoln Avenue,,49423,Michigan,East North Central,Midwest,United States,42.791096,-86.096553
+HOP,Hope,Station Building (with waiting room),Hope,100 East Division Street,,71801,Arkansas,West South Central,South,United States,33.668913,-93.592247
+HOS,Houston (Amtrak),Station Building (with waiting room),Houston,902 Washington Avenue,,77002,Texas,West South Central,South,United States,29.767245,-95.367526
+HPT,High Point,Station Building (with waiting room),High Point,100 West High Avenue,,27260,North Carolina,South Atlantic,South,United States,35.957128,-80.006097
+HUD,Hudson,Station Building (with waiting room),Hudson,69 South Front Street,,12534,New York,Middle Atlantic,Northeast,United States,42.253891,-73.797729
+HUN,Huntington,Station Building (with waiting room),Huntington,1050 8th Avenue,,25701,West Virginia,South Atlantic,South,United States,38.41582,-82.439735
+HUT,Hutchinson,Station Building (with waiting room),Hutchinson,North Walnut Street & East 3rd Avenue,,67501,Kansas,West North Central,Midwest,United States,38.055712,-97.931522
+IDP,Independence,Platform only (no shelter),Independence,600 South Grand Avenue,,64050,Missouri,West North Central,Midwest,United States,39.086917,-94.429711
+IND,Indianapolis,Station Building (with waiting room),Indianapolis,350 South Illinois Street,,46225,Indiana,East North Central,Midwest,United States,39.761984,-86.160423
+IRV,Irvine,Station Building (with waiting room),Irvine,15215 Barranca Parkway,,92618,California,Pacific,West,United States,33.656771,-117.733695
+JAN,Jackson,Station Building (with waiting room),Jackson,300 West Capitol Street,,39201,Mississippi,East South Central,South,United States,32.300808,-90.190936
+JAX,Jacksonville,Station Building (with waiting room),Jacksonville,3570 Clifford Lane,,32209,Florida,South Atlantic,South,United States,30.365601,-81.723893
+JEF,Jefferson City,Platform with Shelter,Jefferson City,101 Jefferson Street,,65101,Missouri,West North Central,Midwest,United States,38.57887,-92.169906
+JOL,Joliet,Station Building (with waiting room),Joliet,90 East Jefferson Street,,60432,Illinois,East North Central,Midwest,United States,41.524647,-88.078731
+JSP,Jesup,Station Building (with waiting room),Jesup,176 Northwest Broad Street,,31545,Georgia,South Atlantic,South,United States,31.605589,-81.882173
+JST,Johnstown,Station Building (with waiting room),Johnstown,47 Walnut Street,,15901,Pennsylvania,Middle Atlantic,Northeast,United States,40.329689,-78.921996
+JXN,Jackson,Station Building (with waiting room),Jackson,501 East Michigan Avenue,,49201,Michigan,East North Central,Midwest,United States,42.248113,-84.39967
+KAL,Kalamazoo,Station Building (with waiting room),Kalamazoo,459 North Burdick Street,,49007,Michigan,East North Central,Midwest,United States,42.295255,-85.584018
+KAN,Kannapolis,Station Building (with waiting room),Kannapolis,201 South Main Street,,28081,North Carolina,South Atlantic,South,United States,35.496172,-80.624928
+KCY,Kansas City (Union Station),Station Building (with waiting room),Kansas City,30 West Pershing Road,,64108,Missouri,West North Central,Midwest,United States,39.084576,-94.585129
+KEE,Kewanee,Station Building (with waiting room),Kewanee,210 West Third Street,,61443,Illinois,East North Central,Midwest,United States,41.245765,-89.927544
+KEL,Kelso-Longview,Station Building (with waiting room),Kelso,501 South First Avenue,,98626,Washington,Pacific,West,United States,46.142264,-122.913016
+KFS,Klamath Falls,Station Building (with waiting room),Klamath Falls,1600 Oak Avenue,,97601,Oregon,Pacific,West,United States,42.225509,-121.771952
+KIN,Kingston,Station Building (with waiting room),West Kingston,1 Railroad Avenue,,02892,Rhode Island,New England,Northeast,United States,41.483959,-71.560597
+KIS,Kissimmee,Station Building (with waiting room),Kissimmee,111 East Dakin Avenue,,34741,Florida,South Atlantic,South,United States,28.293835,-81.404234
+KKI,Kankakee,Station Building (with waiting room),Kankakee,199 South East Avenue,,60901,Illinois,East North Central,Midwest,United States,41.119259,-87.86543
+KNG,Kingman,Station Building (with waiting room),Kingman,402 Andy Devine,,86401,Arizona,Mountain,West,United States,35.188279,-114.052816
+KTR,Kingstree,Station Building (with waiting room),Kingstree,101 East Main St.,,29556,South Carolina,South Atlantic,South,United States,33.663882,-79.829026
+KWD,Kirkwood,Station Building (with waiting room),Kirkwood,110 West Argonne Drive,,63122,Missouri,West North Central,Midwest,United States,38.581067,-90.406761
+LAB,Latrobe (Amtrak),Platform only (no shelter),Latrobe,329 McKinley Avenue,,15650,Pennsylvania,Middle Atlantic,Northeast,United States,40.317405,-79.385083
+LAF,Lafayette (Amtrak Station),Station Building (with waiting room),Lafayette,200 North Second Street,,47901,Indiana,East North Central,Midwest,United States,40.419347,-86.895901
+LAG,La Grange,Station Building (with waiting room),La Grange,25 West Burlington Avenue,,60525,Illinois,East North Central,Midwest,United States,41.815634,-87.871545
+LAJ,La Junta,Station Building (with waiting room),La Junta,1 West First Street,,81050,Colorado,Mountain,West,United States,37.988249,-103.543576
+LAK,Lakeland,Station Building (with waiting room),Lakeland,600 East Main Street,,33801,Florida,South Atlantic,South,United States,28.045603,-81.951874
+LAP,La Plata,Station Building (with waiting room),La Plata,535 North Owensby Street,,63549,Missouri,West North Central,Midwest,United States,40.02922,-92.493384
+LAU,Laurel,Station Building (with waiting room),Laurel,230 North Maple Street,,39440,Mississippi,East South Central,South,United States,31.692168,-89.127933
+LAX,Los Angeles,Station Building (with waiting room),Los Angeles,800 North Alameda Street,,90012,California,Pacific,West,United States,34.056177,-118.236778
+LCH,Lake Charles,Station Building (with waiting room),Lake Charles,100 Ryan Street,,70601,Louisiana,West South Central,South,United States,30.238126,-93.217037
+LCN,Lincoln,Station Building (with waiting room),Lincoln,103 North Chicago Street,,62656,Illinois,East North Central,Midwest,United States,40.148199,-89.363051
+LDB,Lordsburg,Platform with Shelter,Lordsburg,Center Street and East Motel Drive,,88045,New Mexico,Mountain,West,United States,32.35007,-108.707025
+LEE,Lee's Summit,Platform with Shelter,Lee's Summit,217 SW Main Street,,64063,Missouri,West North Central,Midwest,United States,38.912623,-94.377972
+LEW,Lewistown (Amtrak),Station Building (with waiting room),Lewistown,150 Helen Street,,17044,Pennsylvania,Middle Atlantic,Northeast,United States,40.588309,-77.580047
+LEX,Lexington,Platform only (no shelter),Lexington,29 South Railroad Street,,27292,North Carolina,South Atlantic,South,United States,35.820856,-80.251565
+LFT,Lafayette,Station Building (with waiting room),Lafayette,100 Lee Avenue,,70501,Louisiana,West South Central,South,United States,30.226548,-92.014519
+LIB,Libby,Station Building (with waiting room),Libby,100 Mineral Avenue,,59923,Montana,Mountain,West,United States,48.394842,-115.54889
+LKL,Lakeland,Station Building (with waiting room),Lakeland,600 East Main Street,,33801,Florida,South Atlantic,South,United States,28.045603,-81.951874
+LMR,Lamar,Platform only (no shelter),Lamar,109 E Beech Street,,81052,Colorado,Mountain,West,United States,38.089623,-102.618574
+LMY,Lamy,Station Building (with waiting room),Lamy,152 Old Lamy Trail,,87540,New Mexico,Mountain,West,United States,35.480973,-105.879968
+LNC,Lancaster,Station Building (with waiting room),Lancaster,53 McGovern Avenue,,17602,Pennsylvania,Middle Atlantic,Northeast,United States,40.054181,-76.307714
+LNK,Lincoln,Station Building (with waiting room),Lincoln,277 Pinnacle Arena Drive,,68508,Nebraska,West North Central,Midwest,United States,40.815871,-96.71317
+LNS,East Lansing,Station Building (with waiting room),East Lansing,1240 South Harrison Road,,48823,Michigan,East North Central,Midwest,United States,42.718731,-84.495962
+LOD,Lodi,Station Building (with waiting room),Lodi,24 South Sacramento Street,,95240,California,Pacific,West,United States,38.133201,-121.271887
+LOR,Lorton (Auto Train),Station Building (with waiting room),Lorton,8006 Lorton Road,,22079,Virginia,South Atlantic,South,United States,38.708143,-77.220942
+LPE,Lapeer,Station Building (with waiting room),Lapeer,73 Howard Street,,48446,Michigan,East North Central,Midwest,United States,43.04952,-83.306154
+LPS,Lompoc-Surf,Platform with Shelter,Surf,Ocean Ave and Park Rd,,93437,California,Pacific,West,United States,34.682704,-120.605001
+LRC,Lawrence,Station Building (with waiting room),Lawrence,413 East 7th Street,,66044,Kansas,West North Central,Midwest,United States,38.971166,-95.230539
+LRK,Little Rock,Station Building (with waiting room),Little Rock,1400 West Markham Street,,72201,Arkansas,West South Central,South,United States,34.750298,-92.286785
+LSE,La Crosse,Station Building (with waiting room),La Crosse,601 St. Andrew Street,,54601,Wisconsin,East North Central,Midwest,United States,43.833155,-91.247298
+LSE,La Crosse (Amtrak Station),Station Building (with waiting room),La Crosse,601 St. Andrew Street,,54601,Wisconsin,East North Central,Midwest,United States,43.833155,-91.247298
+LSV,Las Vegas,Station Building (with waiting room),Las Vegas,500 Railroad Avenue at Lincoln,,87701,New Mexico,Mountain,West,United States,35.593432,-105.212779
+LVW,Longview,Station Building (with waiting room),Longview,905 Pacific Avenue,,75602,Texas,West South Central,South,United States,32.494032,-94.728322
+LWA,Leavenworth (Trains),Platform with Shelter,Leavenworth,11645 North Road,,98826,Washington,Pacific,West,United States,47.606493,-120.643965
+LYH,Lynchburg,Station Building (with waiting room),Lynchburg,825 Kemper Street,,24501,Virginia,South Atlantic,South,United States,37.406439,-79.156934
+MAC,Macomb,Station Building (with waiting room),Macomb,120 East Calhoun Street,,61455,Illinois,East North Central,Midwest,United States,40.461212,-90.67094
+MAC,Macomb (Thomas C. Carper Station),Station Building (with waiting room),Macomb,120 East Calhoun Street,,61455,Illinois,East North Central,Midwest,United States,40.461212,-90.67094
+MAL,Malta,Station Building (with waiting room),Malta,51 South 1st Street East,,59538,Montana,Mountain,West,United States,48.360477,-107.872242
+MAT,Mattoon,Station Building (with waiting room),Mattoon,1718 Broadway Avenue,,61938,Illinois,East North Central,Midwest,United States,39.48273,-88.376045
+MAY,Maysville,Station Building (with waiting room),Maysville,West Front Street & Rosemary Clooney Street,,41056,Kentucky,East South Central,South,United States,38.652148,-83.771074
+MBY,Middlebury (Amtrak Station),Platform with Shelter,Middlebury,30 Middle Seymour Street,,05753,Vermont,New England,Northeast,United States,44.017425,-73.169775
+MCB,McComb,Station Building (with waiting room),McComb,114 North Railroad Avenue,,39648,Mississippi,East South Central,South,United States,31.244467,-90.451334
+MCD,Merced,Station Building (with waiting room),Merced,324 West 24th Street,,95340,California,Pacific,West,United States,37.307183,-120.476805
+MCG,McGregor,Station Building (with waiting room),McGregor,1 Amtrak Boulevard,,76657,Texas,West South Central,South,United States,31.443352,-97.404756
+MCI,Michigan City,,Michigan City,100 Washington Street,,46360,Indiana,East North Central,Midwest,United States,41.721111,-86.905556
+MCK,McCook,Station Building (with waiting room),McCook,101 Norris Avenue,,69001,Nebraska,West North Central,Midwest,United States,40.197634,-100.625792
+MDN,Meriden,Platform with Shelter,Meriden,60 State Street,,06450,Connecticut,New England,Northeast,United States,41.539385,-72.800678
+MDR,Madera,Platform with Shelter,Madera,18770 Road 26,,93638,California,Pacific,West,United States,37.022471,-120.07498
+MDT,Mendota,Station Building (with waiting room),Mendota,783 Main Street,,61342,Illinois,East North Central,Midwest,United States,41.549584,-89.11792
+MEI,Meridian,Station Building (with waiting room),Meridian,1901 Front Street,,39301,Mississippi,East South Central,South,United States,32.364166,-88.696568
+MEM,Memphis,Station Building (with waiting room),Memphis,545 South Main Street,Main and Carolina Entrance,38103,Tennessee,East South Central,South,United States,35.132458,-90.059109
+MET,Metropark (Iselin),Station Building (with waiting room),Iselin,100 Middlesex-Essex Turnpike,,08830,New Jersey,Middle Atlantic,Northeast,United States,40.568056,-74.329583
+MHL,Marshall,Station Building (with waiting room),Marshall,800 North Washington Street,,75670,Texas,West South Central,South,United States,32.551549,-94.366995
+MIA,Miami,Station Building (with waiting room),Miami,8303 NW 37th Avenue,,33147,Florida,South Atlantic,South,United States,25.849554,-80.257759
+MID,Middletown,Platform with Shelter,Middletown,270 West Emaus Street,,17057,Pennsylvania,Middle Atlantic,Northeast,United States,40.195658,-76.736482
+MIN,Mineola,Station Building (with waiting room),Mineola,115 East Front Street,,75773,Texas,West South Central,South,United States,32.662049,-95.4891
+MJY,Mount Joy,Platform with Shelter,Mount Joy,25 South Market Street,,17552,Pennsylvania,Middle Atlantic,Northeast,United States,40.109165,-76.503443
+MKA,Milwaukee Airport (Trains),Station Building (with waiting room),Milwaukee,5601 South 6th Street,,53221,Wisconsin,East North Central,Midwest,United States,42.940583,-87.924359
+MKE,Milwaukee (Downtown),Station Building (with waiting room),Milwaukee,433 West St. Paul Avenue,,53203,Wisconsin,East North Central,Midwest,United States,43.034518,-87.917104
+MKS,Marks,Platform with Shelter,Marks,285 Cherry St,,38646,Mississippi,East South Central,South,United States,34.258227,-90.272342
+MNG,Montgomery,Platform with Shelter,Montgomery,Third Avenue and Washington Street,,25136,West Virginia,South Atlantic,South,United States,38.180743,-81.32403
+MOD,Modesto,Station Building (with waiting room),Modesto,1700 Held Drive,,95355,California,Pacific,West,United States,37.668951,-120.912913
+MOT,Minot,Station Building (with waiting room),Minot,400 1st Avenue S.W.,,58701,North Dakota,West North Central,Midwest,United States,48.236083,-101.298557
+MPK,Moorpark,Platform only (no shelter),Moorpark,300 High Street,,93021,California,Pacific,West,United States,34.28476,-118.878059
+MPR,Montpelier-Berlin,Station Building (with waiting room),Montpelier,297 Junction Road,,05602,Vermont,New England,Northeast,United States,44.255749,-72.606394
+MRB,Martinsburg,Station Building (with waiting room),Martinsburg,229 East Martin Street,,25401,West Virginia,South Atlantic,South,United States,39.458661,-77.961014
+MRC,Maricopa,Station Building (with waiting room),Maricopa,44605 West Mercado Street,,85138,Arizona,Mountain,West,United States,33.056191,-112.047592
+MSP,St. Paul-Minneapolis,Station Building (with waiting room),St. Paul,240 Kellogg Boulevard East,,55101,Minnesota,West North Central,Midwest,United States,44.947661,-93.085355
+MSS,Manassas,Station Building (with waiting room),Manassas,9431 West Street,,20110,Virginia,South Atlantic,South,United States,38.750084,-77.472577
+MTP,Mount Pleasant,Station Building (with waiting room),Mount Pleasant,418 North Adams Street,,52641,Iowa,West North Central,Midwest,United States,40.971179,-91.550772
+MTR,Montreal (Gare Centrale),Station Building (with waiting room),Montreal,895 rue de la Gauchetiere ouest,,H3B 4G1,Quebec,Eastern Canada,Northeast,Canada,45.500169,-73.565767
+MTZ,Martinez,Station Building (with waiting room),Martinez,601 Marina Vista Avenue,,94553,California,Pacific,West,United States,38.018921,-122.138784
+MVN,Malvern,Platform with Shelter,Malvern,200 East First Street,,72104,Arkansas,West South Central,South,United States,34.365484,-92.814018
+MVW,Mount Vernon,Station Building (with waiting room),Mount Vernon,105 East Kincaid Street,,98273,Washington,Pacific,West,United States,48.41847,-122.334738
+MYS,Mystic,Station Building (with waiting room),Mystic,2 Roosevelt Avenue,,06355,Connecticut,New England,Northeast,United States,41.350934,-71.963093
+NBK,New Brunswick,Station Building (with waiting room),New Brunswick,French and Albany Streets,,08901,New Jersey,Middle Atlantic,Northeast,United States,40.496522,-74.446265
+NBN,Newbern-Dyersburg,Station Building (with waiting room),Newbern,108 Jefferson St,,38059,Tennessee,East South Central,South,United States,36.112711,-89.262264
+NBU,New Buffalo,Platform with Shelter,New Buffalo,226 North Whittaker Street,,49117,Michigan,East North Central,Midwest,United States,41.796656,-86.745782
+NCR,New Carrollton,Station Building (with waiting room),New Carrollton,4300 Garden City Drive,,20784,Maryland,South Atlantic,South,United States,38.948098,-76.871494
+NDL,Needles,Platform only (no shelter),Needles,950 Front Street,,92363,California,Pacific,West,United States,34.840616,-114.606188
+NEW,Newton,Station Building (with waiting room),Newton,414 North Main Street,,67114,Kansas,West North Central,Midwest,United States,38.046976,-97.344886
+NFK,Norfolk,Station Building (with waiting room),Norfolk,280 Park Avenue,,23510,Virginia,South Atlantic,South,United States,36.843509,-76.276195
+NFL,Niagara Falls,Station Building (with waiting room),Niagara Falls,825 Depot Avenue West,,14305,New York,Middle Atlantic,Northeast,United States,43.109908,-79.055276
+NFS,Niagara Falls,Station Building (with waiting room),Niagara Falls,4267 Bridge Street,,L2E 2R6,Ontario,Eastern Canada,Northeast,Canada,43.108736,-79.063291
+NHT,Northampton,Platform with Shelter,Northampton,170 Pleasant Street,,01060,Massachusetts,New England,Northeast,United States,42.318858,-72.626379
+NHV,New Haven (Union Station),Station Building (with waiting room),New Haven,50 Union Avenue,,06519,Connecticut,New England,Northeast,United States,41.297714,-72.92667
+NIB,New Iberia,Platform only (no shelter),New Iberia,402 West Washington Street,,70560,Louisiana,West South Central,South,United States,30.008415,-91.823809
+NLC,New London,Station Building (with waiting room),New London,27 Water Street,,06320,Connecticut,New England,Northeast,United States,41.354267,-72.093225
+NLS,Niles,Station Building (with waiting room),Niles,598 Dey Street,,49120,Michigan,East North Central,Midwest,United States,41.837412,-86.252372
+NOL,New Orleans,Station Building (with waiting room),New Orleans,1001 Loyola Avenue,,70113,Louisiana,West South Central,South,United States,29.946085,-90.078291
+NOR,Norman,Platform only (no shelter),Norman,200 South Jones Avenue,,73069,Oklahoma,West South Central,South,United States,35.219963,-97.443013
+NPN,Newport News,Station Building (with waiting room),Newport News,500B Bland Blvd,,23602,Virginia,South Atlantic,South,United States,37.122325,-76.517023
+NPV,Naperville,Station Building (with waiting room),Naperville,105 E. Fourth Ave.,,60540,Illinois,East North Central,Midwest,United States,41.779514,-88.145497
+NRG,Northridge Station,Station Building (with waiting room),Los Angeles,8775 Wilbur Ave,,91324,California,Pacific,West,United States,34.230659,-118.545417
+NRK,Newark,Platform with Shelter,Newark,10 Mopar Drive,,19713,Delaware,South Atlantic,South,United States,39.669686,-75.753513
+NRK,Newark (Thomas R. Carper Station),Platform with Shelter,Newark,10 Mopar Drive,,19713,Delaware,South Atlantic,South,United States,39.669686,-75.753513
+NRO,New Rochelle,Station Building (with waiting room),New Rochelle,1 Railroad Plaza,,10801,New York,Middle Atlantic,Northeast,United States,40.911451,-73.784329
+NSF,North Carolina State Fair,Platform only (no shelter),Raleigh,1025 Blue Ridge Road,,27607,North Carolina,South Atlantic,South,United States,35.794203,-78.706292
+NWK,Newark (Penn Station),Station Building (with waiting room),Newark,1 Raymond Plaza West,,07102,New Jersey,Middle Atlantic,Northeast,United States,40.734706,-74.16475
+NYF,New York State Fair,Platform with Shelter,Syracuse,581 State Fair Boulevard,,13209,New York,Middle Atlantic,Northeast,United States,43.071924,-76.229473
+NYP,NY Moynihan Train Hall at Penn Station,Station Building (with waiting room),New York,351 West 31st Street,,10001,New York,Middle Atlantic,Northeast,United States,40.751038,-73.996327
+OAC,Oakland (Coliseum/Airport),Platform with Shelter,Oakland,700 73rd Avenue,,94621,California,Pacific,West,United States,37.752499,-122.198147
+OKC,Oklahoma City,Station Building (with waiting room),Oklahoma City,100 South E.K. Gaylord Boulevard,,73102,Oklahoma,West South Central,South,United States,35.46549,-97.512749
+OKE,Okeechobee,Platform with Shelter,Okeechobee,801 North Parrott Avenue,,34972,Florida,South Atlantic,South,United States,27.251867,-80.830812
+OKJ,Oakland (Jack London Square),Station Building (with waiting room),Oakland,245 Second Street,,94607,California,Pacific,West,United States,37.793866,-122.271667
+OLT,San Diego (Old Town),Platform only (no shelter),San Diego,4005 Taylor Street,,92110,California,Pacific,West,United States,32.755266,-117.200073
+OLW,Olympia-Lacey,Station Building (with waiting room),Lacey,6600 Yelm Highway SE,,98513,Washington,Pacific,West,United States,46.991273,-122.794059
+OMA,Omaha,Station Building (with waiting room),Omaha,1003 South 9th Street,,68108,Nebraska,West North Central,Midwest,United States,41.249697,-95.927201
+ONA,Ontario,Platform only (no shelter),Ontario,198 East Emporia Street,,91764,California,Pacific,West,United States,34.061672,-117.649569
+ORB,Old Orchard Beach,Platform only (no shelter),Old Orchard Beach,11 First Street,,04064,Maine,New England,Northeast,United States,43.514326,-70.376225
+ORC,Oregon City,Platform with Shelter,Oregon City,1757 Washington Street,,97045,Oregon,Pacific,West,United States,45.366146,-122.595925
+ORL,Orlando,Station Building (with waiting room),Orlando,1400 Sligh Boulevard,,32806,Florida,South Atlantic,South,United States,28.525926,-81.381516
+OSB,Old Saybrook,Station Building (with waiting room),Old Saybrook,455 Boston Post Road,,06475,Connecticut,New England,Northeast,United States,41.30039,-72.376818
+OSC,Osceola,Station Building (with waiting room),Osceola,Main & East Clay Streets,,50213,Iowa,West North Central,Midwest,United States,41.037116,-93.764894
+OSD,Oceanside,Station Building (with waiting room),Oceanside,235 South Tremont Street,,92054,California,Pacific,West,United States,33.192515,-117.37943
+OTM,Ottumwa,Station Building (with waiting room),Ottumwa,210 West Main Street,,52501,Iowa,West North Central,Midwest,United States,41.018815,-92.414929
+OXN,Oxnard,Station Building (with waiting room),Oxnard,201 East Fourth Street,,93030,California,Pacific,West,United States,34.199241,-119.175978
+PAK,Palatka,Platform with Shelter,Palatka,220 North 11th Street,,32177,Florida,South Atlantic,South,United States,29.649734,-81.640471
+PAO,Paoli,Station Building (with waiting room),Paoli,13 Lancaster Avenue,,19301,Pennsylvania,Middle Atlantic,Northeast,United States,40.042754,-75.48376
+PAR,Parkesburg,Platform with Shelter,Parkesburg,501 Maple Street,,19365,Pennsylvania,Middle Atlantic,Northeast,United States,39.95918,-75.922123
+PBF,Poplar Bluff,Station Building (with waiting room),Poplar Bluff,400 South Main Street,,63901,Missouri,West North Central,Midwest,United States,36.753995,-90.393341
+PCT,Princeton,Station Building (with waiting room),Princeton,107 Bicentennial Drive,,61356,Illinois,East North Central,Midwest,United States,41.385191,-89.466815
+PDX,Portland (Union Station),Station Building (with waiting room),Portland,800 NW Sixth Avenue,,97209,Oregon,Pacific,West,United States,45.528724,-122.676806
+PGH,Pittsburgh (Union Station),Station Building (with waiting room),Pittsburgh,1100 Liberty Avenue,,15222,Pennsylvania,Middle Atlantic,Northeast,United States,40.444738,-79.992307
+PHL,Philadelphia (Gray 30th St Sta),Station Building (with waiting room),Philadelphia,2955 Market Street,,19104,Pennsylvania,Middle Atlantic,Northeast,United States,39.955615,-75.181041
+PHN,North Philadelphia,Station Building (with waiting room),Philadelphia,2900 North Broad Street,,19132,Pennsylvania,Middle Atlantic,Northeast,United States,39.99678,-75.155114
+PIC,Picayune,Station Building (with waiting room),Picayune,200 Highway 11 South,,39466,Mississippi,East South Central,South,United States,30.524606,-89.68026
+PIT,Pittsfield,Station Building (with waiting room),Pittsfield,1 Columbus Avenue,,01201,Massachusetts,New England,Northeast,United States,42.451558,-73.2538
+PJC,Princeton Junction,Station Building (with waiting room),Princeton Junction,2 Wallace Circle,,08550,New Jersey,Middle Atlantic,Northeast,United States,40.31585,-74.623976
+PLB,Plattsburgh,Station Building (with waiting room),Plattsburgh,Bridge and Dock Streets,,12901,New York,Middle Atlantic,Northeast,United States,44.696728,-73.446284
+PLO,Plano,Station Building (with waiting room),Plano,101 West Main Street,,60545,Illinois,East North Central,Midwest,United States,41.662384,-88.538272
+PNT,Pontiac,Station Building (with waiting room),Pontiac,51000 Woodward Avenue,,48342,Michigan,East North Central,Midwest,United States,42.632771,-83.292325
+POG,Portage,Platform with Shelter,Portage,400 West Oneida Street,,53901,Wisconsin,East North Central,Midwest,United States,43.547079,-89.467627
+POH,Port Henry,Station Building (with waiting room),Port Henry,20 Park Place,,12974,New York,Middle Atlantic,Northeast,United States,44.042297,-73.458753
+PON,Pontiac,Station Building (with waiting room),Pontiac,711 West Water Street,,61764,Illinois,East North Central,Midwest,United States,40.878687,-88.637198
+POR,Portland,Station Building (with waiting room),Portland,100 Thompson's Point Road,,04102,Maine,New England,Northeast,United States,43.654097,-70.291258
+POS,Pomona,Platform only (no shelter),Pomona,100 West Commercial Street,,91768,California,Pacific,West,United States,34.059224,-117.750621
+POU,Poughkeepsie,Station Building (with waiting room),Poughkeepsie,41 Main Street,,12601,New York,Middle Atlantic,Northeast,United States,41.707056,-73.93749
+PRB,Paso Robles,Platform only (no shelter),Paso Robles,800 Pine Street,,93446,California,Pacific,West,United States,35.622683,-120.68786
+PRC,Prince,Station Building (with waiting room),Prince,5034 Stanaford Road,,25907,West Virginia,South Atlantic,South,United States,37.856594,-81.060694
+PRO,Provo,Platform with Shelter,Provo,300 West 600 South,,84601,Utah,Mountain,West,United States,40.225957,-111.664001
+PSC,Pasco,Station Building (with waiting room),Pasco,535 North 1st Avenue,,99301,Washington,Pacific,West,United States,46.237012,-119.087729
+PSN,Palm Springs (Train),Platform with Shelter,Palm Springs,North Indian Canyon Drive and Palm Springs Station Road,,92262,California,Pacific,West,United States,33.897491,-116.547913
+PTB,Petersburg,Station Building (with waiting room),Petersburg,3516 South Street,,23803,Virginia,South Atlantic,South,United States,37.241627,-77.428794
+PTH,Port Huron,Station Building (with waiting room),Port Huron,2223 16th Street,,48060,Michigan,East North Central,Midwest,United States,42.960419,-82.443805
+PUR,Purcell,Station Building (with waiting room),Purcell,East Main Street and North Santa Fe Avenue,,73080,Oklahoma,West South Central,South,United States,35.012033,-97.357416
+PVD,Providence (Amtrak),Station Building (with waiting room),Providence,100 Gaspee Street,,02903,Rhode Island,New England,Northeast,United States,41.82949,-71.413478
+PVL,Pauls Valley,Station Building (with waiting room),Pauls Valley,South Santa Fe Street and East Paul Avenue,,73075,Oklahoma,West South Central,South,United States,34.741735,-97.21846
+QAN,Quantico,Platform with Shelter,Quantico,550 Railroad Avenue,,22134,Virginia,South Atlantic,South,United States,38.521882,-77.293027
+QCY,Quincy,Station Building (with waiting room),Quincy,North 30th Street and Wisman Lane,,62301,Illinois,East North Central,Midwest,United States,39.957063,-91.368525
+RAT,Raton,Station Building (with waiting room),Raton,201 South First Street,,87740,New Mexico,Mountain,West,United States,36.901072,-104.437886
+RDD,Redding (Amtrak Station),Platform with Shelter,Redding,1620 Yuba Street,,96001,California,Pacific,West,United States,40.583595,-122.39337
+RDW,Red Wing,Station Building (with waiting room),Red Wing,420 Levee Street,,55066,Minnesota,West North Central,Midwest,United States,44.566214,-92.537066
+REN,Rensselaer,Platform with Shelter,Rensselaer,776 North Cullen Street,,47978,Indiana,East North Central,Midwest,United States,40.943281,-87.155121
+RGH,Raleigh,Station Building (with waiting room),Raleigh,510 West Martin Street,,27603,North Carolina,South Atlantic,South,United States,35.777209,-78.647784
+RHI,Rhinecliff,Station Building (with waiting room),Rhinecliff,455 Rhinecliff Road,,12574,New York,Middle Atlantic,Northeast,United States,41.921346,-73.951278
+RIC,Richmond,Platform with Shelter,Richmond,1700 Nevin Avenue,,94801,California,Pacific,West,United States,37.936752,-122.35413
+RIV,Riverside (Downtown),Platform with Shelter,Riverside,4066 Vine Street,,92507,California,Pacific,West,United States,33.97567,-117.369988
+RKV,Rockville,Platform with Shelter,Rockville,307 South Stonestreet Avenue,,20850,Maryland,South Atlantic,South,United States,39.084547,-77.145995
+RLN,Rocklin,Station Building (with waiting room),Rocklin,Rocklin Rd. and Railroad Ave.,,95677,California,Pacific,West,United States,38.791006,-121.237299
+RMT,Rocky Mount,Station Building (with waiting room),Rocky Mount,101 Coastline Street,,27804,North Carolina,South Atlantic,South,United States,35.938001,-77.797855
+RNK,Roanoke,Platform with Shelter,Roanoke,55 Norfolk Avenue SW,,24011,Virginia,South Atlantic,South,United States,37.273185,-79.941795
+RNO,Reno,Station Building (with waiting room),Reno,280 North Center Street,,89501,Nevada,Mountain,West,United States,39.528521,-119.812123
+ROC,Rochester (Louise M. Slaughter Station),Station Building (with waiting room),Rochester,320 Central Avenue,,14605,New York,Middle Atlantic,Northeast,United States,43.163411,-77.608057
+ROM,Rome,Station Building (with waiting room),Rome,6599 Martin Street,,13440,New York,Middle Atlantic,Northeast,United States,43.199425,-75.44996
+ROY,Royal Oak,Platform with Shelter,Royal Oak,202 South Sherman Drive,,48069,Michigan,East North Central,Midwest,United States,42.488439,-83.14701
+RPH,Randolph,Platform only (no shelter),Randolph,South Main and Salisbury Streets,,05060,Vermont,New England,Northeast,United States,43.922398,-72.665459
+RSP,Rouses Point,Platform only (no shelter),Rouses Point,68 Pratt Street,,12979,New York,Middle Atlantic,Northeast,United States,44.99487,-73.371093
+RSV,Roseville,Platform with Shelter,Roseville,201 Pacific Street,,95678,California,Pacific,West,United States,38.750016,-121.286286
+RTE,Route 128 (Westwood),Station Building (with waiting room),Westwood,50 University Avenue,,02090,Massachusetts,New England,Northeast,United States,42.210242,-71.147894
+RTL,Rantoul,Platform with Shelter,Rantoul,East Grove Ave and North Kentucky Ave.,,61866,Illinois,East North Central,Midwest,United States,40.310905,-88.159126
+RUD,Rutland,Station Building (with waiting room),Rutland,25 Evelyn Street,,05701,Vermont,New England,Northeast,United States,43.605756,-72.981538
+RUG,Rugby,Station Building (with waiting room),Rugby,201 West Dewey Street,,58368,North Dakota,West North Central,Midwest,United States,48.369846,-99.997556
+RVM,Richmond (Main St),Station Building (with waiting room),Richmond,1500 East Main Street,,23219,Virginia,South Atlantic,South,United States,37.534209,-77.429512
+RVR,Richmond (Staples Mill Rd),Station Building (with waiting room),Richmond,7519 Staples Mill Road,,23228,Virginia,South Atlantic,South,United States,37.617693,-77.496943
+SAB,St. Albans,Station Building (with waiting room),St Albans,40 Federal Street,,05478,Vermont,New England,Northeast,United States,44.81236,-73.086191
+SAC,Sacramento,Station Building (with waiting room),Sacramento,401 I Street,,95814,California,Pacific,West,United States,38.584004,-121.500704
+SAL,Salisbury,Station Building (with waiting room),Salisbury,215 Depot Street,,28144,North Carolina,South Atlantic,South,United States,35.667496,-80.466323
+SAN,San Diego (Downtown),Station Building (with waiting room),San Diego,1050 Kettner Boulevard,,92101,California,Pacific,West,United States,32.716169,-117.169576
+SAO,Saco,Station Building (with waiting room),Saco,138 Main Street,,04072,Maine,New England,Northeast,United States,43.496191,-70.449139
+SAR,Saratoga Springs,Station Building (with waiting room),Saratoga Springs,26 Station Lane,,12866,New York,Middle Atlantic,Northeast,United States,43.08281,-73.810027
+SAS,San Antonio,Station Building (with waiting room),San Antonio,350 Hoefgen Street,,78205,Texas,West South Central,South,United States,29.41935,-98.478143
+SAV,Savannah,Station Building (with waiting room),Savannah,2611 Seaboard Coastline Drive,,31401,Georgia,South Atlantic,South,United States,32.083412,-81.148264
+SBA,Santa Barbara,Station Building (with waiting room),Santa Barbara,209 State Street,,93101,California,Pacific,West,United States,34.413718,-119.692785
+SBG,Sebring,Station Building (with waiting room),Sebring,601 East Center Avenue,,33870,Florida,South Atlantic,South,United States,27.496632,-81.434202
+SBY,Shelby,Station Building (with waiting room),Shelby,230 West Central Avenue,,59474,Montana,Mountain,West,United States,48.506748,-111.856649
+SCC,Santa Clara (Transit Center),Platform with Shelter,Santa Clara,1001 Railroad Avenue,,95050,California,Pacific,West,United States,37.353219,-121.936576
+SCD,St. Cloud,Station Building (with waiting room),St. Cloud,555 East Saint Germain Street,,56304,Minnesota,West North Central,Midwest,United States,45.567748,-94.149093
+SCH,Schriever,Platform only (no shelter),Schriever,145 Burlington Court,,70395,Louisiana,West South Central,South,United States,29.746678,-90.815246
+SDL,Slidell,Station Building (with waiting room),Slidell,1827 Front Street,,70458,Louisiana,West South Central,South,United States,30.278372,-89.782565
+SDY,Schenectady,Station Building (with waiting room),Schenectady,332 Erie Boulevard,,12305,New York,Middle Atlantic,Northeast,United States,42.814724,-73.942892
+SEA,Seattle (King Street Station),Station Building (with waiting room),Seattle,303 South Jackson Street,,98104,Washington,Pacific,West,United States,47.598445,-122.330161
+SED,Sedalia,Station Building (with waiting room),Sedalia,Pacific Street and North Osage Avenue,,65301,Missouri,West North Central,Midwest,United States,38.711604,-93.228706
+SFA,Sanford (Auto Train),Station Building (with waiting room),Sanford,600 South Persimmon Avenue,,32771,Florida,South Atlantic,South,United States,28.808544,-81.291274
+SIM,Simi Valley,Platform only (no shelter),Simi Valley,5050 Los Angeles Avenue,,93063,California,Pacific,West,United States,34.270204,-118.695163
+SJC,San Jose,Station Building (with waiting room),San Jose,65 Cahill Street,,95110,California,Pacific,West,United States,37.329933,-121.902388
+SJM,St. Joseph,Station Building (with waiting room),St. Joseph,410 1/2 Vine Street,,49085,Michigan,East North Central,Midwest,United States,42.10908,-86.484484
+SKN,Stockton (Amtrak Sta - San Joaquin Street),Station Building (with waiting room),Stockton,735 South San Joaquin Street,,95203,California,Pacific,West,United States,37.945468,-121.285632
+SKT,Stockton (ACE Sta - Channel Street),Platform with Shelter,Stockton,949 East Channel St.,,95202,California,Pacific,West,United States,37.957038,-121.279
+SKY,Sandusky,Station Building (with waiting room),Sandusky,1200 North Depot Street,,44870,Ohio,East North Central,Midwest,United States,41.440671,-82.717866
+SLC,Salt Lake City (Amtrak Station),Station Building (with waiting room),Salt Lake City,340 South 600 West,,84101,Utah,Mountain,West,United States,40.761661,-111.908349
+SLM,Salem,Station Building (with waiting room),Salem,500 13th Street SE,,97301,Oregon,Pacific,West,United States,44.932331,-123.028331
+SLO,San Luis Obispo,Station Building (with waiting room),San Luis Obispo,1011 Railroad Avenue,,93401,California,Pacific,West,United States,35.276434,-120.654701
+SLQ,St-Lambert,Station Building (with waiting room),St-Lambert,329 avenue St-Denis,,J4P 2G5,Quebec,Eastern Canada,Northeast,Canada,45.498896,-73.507287
+SMC,San Marcos,Platform with Shelter,San Marcos,338 South Guadalupe Street,,78666,Texas,West South Central,South,United States,29.876571,-97.941049
+SMT,Summit,Platform with Shelter,Summit,Archer Avenue and South Center Avenue,,60501,Illinois,East North Central,Midwest,United States,41.794912,-87.809742
+SNA,Santa Ana,Station Building (with waiting room),Santa Ana,1000 East Santa Ana Boulevard,,92701,California,Pacific,West,United States,33.751629,-117.856607
+SNB,San Bernardino,Station Building (with waiting room),San Bernardino,1170 West Third Street,,92410,California,Pacific,West,United States,34.104112,-117.310659
+SNC,San Juan Capistrano,Station Building (with waiting room),San Juan Capistrano,26701 Verdugo Street,,92675,California,Pacific,West,United States,33.501318,-117.663813
+SND,Sanderson,Platform only (no shelter),Sanderson,201 West Downie Street,,79848,Texas,West South Central,South,United States,30.139951,-102.398746
+SNP,San Clemente Pier,Platform only (no shelter),San Clemente,615 Avenida Victoria,,92672,California,Pacific,West,United States,33.419645,-117.619733
+SNS,Salinas (Amtrak Station),Station Building (with waiting room),Salinas,11 Station Place,,93901,California,Pacific,West,United States,36.679145,-121.656745
+SOB,South Bend (Amtrak Station),Station Building (with waiting room),South Bend,2702 West Washington Street,,46628,Indiana,East North Central,Midwest,United States,41.67836,-86.287345
+SOL,Solana Beach,Platform only (no shelter),Solana Beach,105 North Cedros Avenue,,92075,California,Pacific,West,United States,32.992937,-117.271135
+SOP,Southern Pines,Station Building (with waiting room),Southern Pines,235 Northwest Broad Street,,28387,North Carolina,South Atlantic,South,United States,35.175069,-79.390303
+SPB,Spartanburg,Station Building (with waiting room),Spartanburg,290 Magnolia Street,,29303,South Carolina,South Atlantic,South,United States,34.953736,-81.936917
+SPG,Springfield,Station Building (with waiting room),Springfield,55 Frank B. Murray Street,,01103,Massachusetts,New England,Northeast,United States,42.105987,-72.592905
+SPI,Springfield,Station Building (with waiting room),Springfield,100 North Third Street,,62701,Illinois,East North Central,Midwest,United States,39.802323,-89.651384
+SPK,Spokane (Amtrak),Station Building (with waiting room),Spokane,221 West 1st Avenue,,99201,Washington,Pacific,West,United States,47.65672,-117.415455
+SPL,Staples,Station Building (with waiting room),Staples,First Avenue N.E. and Fourth Street N.E.,,56479,Minnesota,West North Central,Midwest,United States,46.354601,-94.795331
+SPM,South Shore-South Portsmouth,Platform with Shelter,South Shore,Depot Drive & US 23,,41175,Kentucky,East South Central,South,United States,38.721281,-82.963751
+SPT,Sandpoint,Platform with Shelter,Sandpoint,450 Railroad Depot Rd,,83864,Idaho,Mountain,West,United States,48.276234,-116.545583
+SSM,Selma,Station Building (with waiting room),Selma,500 East Railroad Street,,27576,North Carolina,South Atlantic,South,United States,35.532786,-78.280099
+STA,Staunton,Station Building (with waiting room),Staunton,1 Middlebrook Avenue,,24401,Virginia,South Atlantic,South,United States,38.147639,-79.071776
+STL,St. Louis,Station Building (with waiting room),St. Louis,430 South 15th Street,,63103,Missouri,West North Central,Midwest,United States,38.624195,-90.203973
+STM,Stamford,Station Building (with waiting room),Stamford,Washington Blvd and South State Street,,06902,Connecticut,New England,Northeast,United States,41.04713,-73.54216
+STN,Stanley,Station Building (with waiting room),Stanley,Main Street & Railroad Avenue,,58784,North Dakota,West North Central,Midwest,United States,48.319813,-102.389379
+STS,New Haven (State Street Station),Station Building (with waiting room),New Haven,259 State Street,,06519,Connecticut,New England,Northeast,United States,41.305253,-72.922086
+STW,Stanwood,Platform only (no shelter),Stanwood,27111 Florence Way,,98292,Washington,Pacific,West,United States,48.242638,-122.349935
+SUI,Suisun-Fairfield,Station Building (with waiting room),Suisun City,177 Main Street,,94585,California,Pacific,West,United States,38.243401,-122.041099
+SVT,Sturtevant,Station Building (with waiting room),Sturtevant,9900 East Exploration Court,,53177,Wisconsin,East North Central,Midwest,United States,42.718292,-87.9063
+SYR,Syracuse (Amtrak),Station Building (with waiting room),Syracuse,1 Walsh Circle,,13208,New York,Middle Atlantic,Northeast,United States,43.076548,-76.169244
+TAC,Tacoma,Station Building (with waiting room),Tacoma,422 East 25th Street,,98421,Washington,Pacific,West,United States,47.239803,-122.428099
+TAY,Taylor,Platform only (no shelter),Taylor,118 East First Street,,76574,Texas,West South Central,South,United States,30.567667,-97.407763
+TCA,Toccoa,Station Building (with waiting room),Toccoa,47 North Alexander Street,,30577,Georgia,South Atlantic,South,United States,34.578456,-83.331542
+TCL,Tuscaloosa,Station Building (with waiting room),Tuscaloosa,2105 Greensboro Avenue,,35401,Alabama,East South Central,South,United States,33.193165,-87.560228
+THN,Thurmond,Platform with Shelter,Thurmond,Hwy 25 & Hwy 2,,25936,West Virginia,South Atlantic,South,United States,37.956986,-81.078754
+TOH,Tomah,Station Building (with waiting room),Tomah,North Superior Avenue and Washington Street,,54660,Wisconsin,East North Central,Midwest,United States,43.986007,-90.505331
+TOL,Toledo,Station Building (with waiting room),Toledo,415 Emerald Avenue,,43604,Ohio,East North Central,Midwest,United States,41.638345,-83.541721
+TOP,Topeka,Station Building (with waiting room),Topeka,500 SE Holliday Place,,66607,Kansas,West North Central,Midwest,United States,39.051415,-95.664916
+TPA,Tampa,Station Building (with waiting room),Tampa,601 North Nebraska Avenue,,33602,Florida,South Atlantic,South,United States,27.952492,-82.450777
+TPL,Temple,Station Building (with waiting room),Temple,315 West Avenue B,,76501,Texas,West South Central,South,United States,31.095883,-97.345792
+TRE,Trenton,Station Building (with waiting room),Trenton,72 South Clinton Avenue,,08609,New Jersey,Middle Atlantic,Northeast,United States,40.219011,-74.75444
+TRI,Trinidad,Platform only (no shelter),Trinidad,110 West Pine Street,,81082,Colorado,Mountain,West,United States,37.172688,-104.507981
+TRK,Turlock-Denair,Platform with Shelter,Denair,3800 Santa Fe Avenue,,95316,California,Pacific,West,United States,37.527229,-120.798009
+TRM,Troy,Station Building (with waiting room),Troy,1201 Doyle Drive,,48084,Michigan,East North Central,Midwest,United States,42.542555,-83.191026
+TRU,Truckee,Station Building (with waiting room),Truckee,10065 Donner Pass Road,,96161,California,Pacific,West,United States,39.327616,-120.185387
+TUK,Tukwila,Platform with Shelter,Tukwila,7301 Longacres Way,,98188,Washington,Pacific,West,United States,47.461081,-122.240254
+TUS,Tucson,Station Building (with waiting room),Tucson,400 North Toole Avenue,,85701,Arizona,Mountain,West,United States,32.222977,-110.96677
+TWO,Toronto,Station Building (with waiting room),Toronto,65 Front Street West,,M5J 1E6,Ontario,Eastern Canada,Northeast,Canada,43.645427,-79.380762
+TXA,Texarkana,Station Building (with waiting room),Texarkana,100 East Front Street,,71854,Arkansas,West South Central,South,United States,33.420067,-94.043082
+TYR,Tyrone,Platform with Shelter,Tyrone,Pennsylvania Avenue and West 10th Street,,16686,Pennsylvania,Middle Atlantic,Northeast,United States,40.667705,-78.24047
+UCA,Utica,Station Building (with waiting room),Utica,321 Main Street,,13501,New York,Middle Atlantic,Northeast,United States,43.103892,-75.223434
+VAC,Vancouver,Station Building (with waiting room),Vancouver,1150 Station Street,,V6A 4C7,British Columbia,Western Canada,West,Canada,49.273757,-123.098336
+VAN,Vancouver,Station Building (with waiting room),Vancouver,1301 West 11th Street,,98660,Washington,Pacific,West,United States,45.628901,-122.686544
+VEC,Ventura,Platform with Shelter,Ventura,39 East Harbor Blvd,,93001,California,Pacific,West,United States,34.276929,-119.299918
+VNC,Van Nuys,Station Building (with waiting room),Van Nuys,7724 Van Nuys Boulevard,,91405,California,Pacific,West,United States,34.211294,-118.448206
+VRN,Ferrisburgh-Vergennes,Station Building (with waiting room),Ferrisburgh,49 Park Lane,,05456,Vermont,New England,Northeast,United States,44.180921,-73.248824
+VRV,Victorville (Amtrak Station),Platform only (no shelter),Victorville,16858 South D Street,,92395,California,Pacific,West,United States,34.5372,-117.292956
+WAB,Waterbury,Station Building (with waiting room),Waterbury,US Highway 2 and Park Row,,05676,Vermont,New England,Northeast,United States,44.335011,-72.751806
+WAC,Wasco,Platform with Shelter,Wasco,700 G Street,,93280,California,Pacific,West,United States,35.594092,-119.332309
+WAH,Washington,Station Building (with waiting room),Washington,301 West Front Street,,63090,Missouri,West North Central,Midwest,United States,38.561466,-91.012717
+WAR,Warrensburg,Station Building (with waiting room),Warrensburg,100 South Holden Street,,64093,Missouri,West North Central,Midwest,United States,38.76275,-93.7409
+WAS,Washington,Station Building (with waiting room),Washington,50 Massachusetts Avenue NE,,20002,District of Columbia,South Atlantic,South,United States,38.896993,-77.006422
+WBG,Williamsburg,Station Building (with waiting room),Williamsburg,468 North Boundary Street,,23185,Virginia,South Atlantic,South,United States,37.276414,-76.708564
+WDB,Woodbridge,Platform with Shelter,Woodbridge,1040 Express Way,,22194,Virginia,South Atlantic,South,United States,38.658915,-77.247852
+WDL,Wisconsin Dells,Station Building (with waiting room),Wisconsin Dells,100 LaCrosse Street,,53965,Wisconsin,East North Central,Midwest,United States,43.626509,-89.777451
+WEM,Wells,Station Building (with waiting room),Wells,696 Sanford Road,,04090,Maine,New England,Northeast,United States,43.320836,-70.612192
+WEN,Wenatchee (Amtrak Station),Platform with Shelter,Wenatchee,1 Kittitas Street,,98801,Washington,Pacific,West,United States,47.421556,-120.306552
+WFD,Wallingford,Platform with Shelter,Wallingford,343 North Cherry St.,,06492,Connecticut,New England,Northeast,United States,41.456969,-72.825221
+WFH,Whitefish,Station Building (with waiting room),Whitefish,500 Depot Street,,59937,Montana,Mountain,West,United States,48.413474,-114.335575
+WGL,West Glacier,Platform only (no shelter),West Glacier,12544 US Highway 2 East,,59936,Montana,Mountain,West,United States,48.496218,-113.979164
+WHL,Whitehall,Platform only (no shelter),Whitehall,154 Main Street,,12887,New York,Middle Atlantic,Northeast,United States,43.554694,-73.403207
+WIH,Wishram,Platform only (no shelter),Wishram,1 Railroad Avenue,,98673,Washington,Pacific,West,United States,45.657669,-120.966142
+WIL,Wilmington,Station Building (with waiting room),Wilmington,100 South French Street,,19801,Delaware,South Atlantic,South,United States,39.737263,-75.551095
+WIN,Winona,Platform with Shelter,Winona,65 East Mark Street,,55987,Minnesota,West North Central,Midwest,United States,44.044404,-91.640073
+WIP,Winter Park/Fraser,Platform with Shelter,Fraser,205 Fraser Avenue,,80442,Colorado,Mountain,West,United States,39.947566,-105.817388
+WLN,Wilson,Station Building (with waiting room),Wilson,401 East Nash Street,,27893,North Carolina,South Atlantic,South,United States,35.723135,-77.908029
+WLO,Winslow,Platform with Shelter,Winslow,303 East Second Street (Route 66),,86047,Arizona,Mountain,West,United States,35.021666,-110.694981
+WLY,Westerly,Platform with Shelter,Westerly,14 Railroad Avenue,,02891,Rhode Island,New England,Northeast,United States,41.381081,-71.82978
+WND,Windsor,Platform with Shelter,Windsor,41 Central Street,,06095,Connecticut,New England,Northeast,United States,41.852013,-72.642253
+WNL,Windsor Locks,Platform with Shelter,Windsor Locks,South Main Street at Stanton Road,,06096,Connecticut,New England,Northeast,United States,41.913956,-72.626101
+WNM,Windsor,Platform only (no shelter),Windsor,26 Depot Avenue,,05089,Vermont,New England,Northeast,United States,43.479908,-72.384985
+WNN,Winnemucca,Platform with Shelter,Winnemucca,209 Railroad Street,,89445,Nevada,Mountain,West,United States,40.969044,-117.73221
+WNR,Walnut Ridge,Station Building (with waiting room),Walnut Ridge,109 Southwest Front Street,,72476,Arkansas,West South Central,South,United States,36.06766,-90.956766
+WOB,Woburn,Station Building (with waiting room),Woburn,100 Atlantic Avenue,,01801,Massachusetts,New England,Northeast,United States,42.517358,-71.143823
+WOR,Worcester,Station Building (with waiting room),Worcester,2 Washington Square,,01604,Massachusetts,New England,Northeast,United States,42.261478,-71.794812
+WPB,West Palm Beach,Station Building (with waiting room),West Palm Beach,209 South Tamarind Avenue,,33401,Florida,South Atlantic,South,United States,26.712554,-80.062184
+WPK,Winter Park,Station Building (with waiting room),Winter Park,148 West Morse Boulevard,,32789,Florida,South Atlantic,South,United States,28.597099,-81.351993
+WPR,Winter Park (Train),Platform with Shelter,Winter Park,85 Parsenn Road,,80402,Colorado,Mountain,West,United States,39.887584,-105.763245
+WPT,Wolf Point,Station Building (with waiting room),Wolf Point,320 Front Street,,59201,Montana,Mountain,West,United States,48.091672,-105.642736
+WRJ,White River Junction,Station Building (with waiting room),White River Junction,102 Railroad Row,,05001,Vermont,New England,Northeast,United States,43.647785,-72.317272
+WSP,Westport,Station Building (with waiting room),Westport,6705 Main Street,,12993,New York,Middle Atlantic,Northeast,United States,44.187288,-73.451773
+WSS,White Sulphur Springs,Platform with Shelter,White Sulphur Springs,315 West Main Street,,24986,West Virginia,South Atlantic,South,United States,37.786443,-80.304004
+WTH,Winter Haven,Station Building (with waiting room),Winter Haven,1800 7th Street SW,,33880,Florida,South Atlantic,South,United States,28.002146,-81.734878
+WTI,Waterloo,Station Building (with waiting room),Waterloo,485 West Van Vleek Street,,46793,Indiana,East North Central,Midwest,United States,41.431816,-85.024298
+WTN,Williston,Station Building (with waiting room),Williston,1 South Main Street,,58801,North Dakota,West North Central,Midwest,United States,48.143,-103.620926
+YAZ,Yazoo City,Platform with Shelter,Yazoo City,West Broadway (SR149) & North Water Street,,39194,Mississippi,East South Central,South,United States,32.848477,-90.41523
+YEM,Yemassee,Platform with Shelter,Yemassee,15 Wall Street,,29945,South Carolina,South Atlantic,South,United States,32.688286,-80.846901
+YNY,Yonkers,Station Building (with waiting room),Yonkers,5 Buena Vista Avenue,,10701,New York,Middle Atlantic,Northeast,United States,40.935586,-73.902263
+YUM,Yuma,Platform only (no shelter),Yuma,281 Gila Street,,85364,Arizona,Mountain,West,United States,32.723139,-114.615571

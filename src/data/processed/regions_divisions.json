@@ -1,0 +1,93 @@
+{
+    "Northeast": {
+        "New England": [
+            "Connecticut",
+            "Maine",
+            "Massachusetts",
+            "New Hampshire",
+            "Rhode Island",
+            "Vermont"
+        ],
+        "Middle Atlantic": [
+            "New Jersey",
+            "New York",
+            "Pennsylvania"
+        ],
+        "Eastern Canada": [
+            "New Brunswick",
+            "Newfoundland and Labrador",
+            "Nova Scotia",
+            "Ontario",
+            "Prince Edward Island",
+            "Quebec"
+        ]
+    },
+    "Midwest": {
+        "East North Central": [
+            "Indiana",
+            "Illinois",
+            "Michigan",
+            "Ohio",
+            "Wisconsin"
+        ],
+        "West North Central": [
+            "Iowa",
+            "Kansas",
+            "Minnesota",
+            "Missouri",
+            "Nebraska",
+            "North Dakota",
+            "South Dakota"
+        ]
+    },
+    "South": {
+        "South Atlantic": [
+            "Delaware",
+            "District of Columbia",
+            "Florida",
+            "Georgia",
+            "Maryland",
+            "North Carolina",
+            "South Carolina",
+            "Virginia",
+            "West Virginia"
+        ],
+        "East South Central": [
+            "Alabama",
+            "Kentucky",
+            "Mississippi",
+            "Tennessee"
+        ],
+        "West South Central": [
+            "Arkansas",
+            "Louisiana",
+            "Oklahoma",
+            "Texas"
+        ]
+    },
+    "West": {
+        "Mountain": [
+            "Arizona",
+            "Colorado",
+            "Idaho",
+            "Montana",
+            "Nevada",
+            "New Mexico",
+            "Utah",
+            "Wyoming"
+        ],
+        "Pacific": [
+            "Alaska",
+            "California",
+            "Hawaii",
+            "Oregon",
+            "Washington"
+        ],
+        "Western Canada": [
+            "Alberta",
+            "British Columbia",
+            "Manitoba",
+            "Saskatchewan"
+        ]
+    }
+}

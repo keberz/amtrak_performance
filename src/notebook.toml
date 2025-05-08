@@ -1,0 +1,217 @@
+[agg]
+columns = ["Total Detraining Customers", "Late Detraining Customers"]
+funcs = ["sum", "mean", "median", "std"]
+
+[chart]
+
+[chart.bar]
+xoffset_sort = ["On Time", "Late"]  # Chart bars and legend order
+
+[chart.bar.colors]
+"On Time" = "#00537e"  # Amtrak Blue
+Late = "#ef3824"  # Amtrak Red
+
+[chart.bar.columns]
+year = "Fiscal Year"
+quarter = "Fiscal Quarter"
+total_detrain = "Total Detraining Customers sum"
+late_detrain = "Late Detraining Customers sum"
+
+[chart.box]
+
+[chart.box.padding]
+top = 15
+left = 15
+right = 30
+bottom = 15
+
+[chart.box.colors]
+"Northeast Corridor" = "#00537e"  # Amtrak Blue
+"State Supported" = "#ef3824"  # Amtrak Red
+"Long Distance" = "#495153"  # Anthracite Gray
+
+[chart.box.y_axis]
+sort = ["Northeast Corridor", "State Supported", "Long Distance"]
+
+[colors]
+"amtk_blue" = "#00537e"  # PMS 302 C
+"amtk_deep_blue" = "#003a7b"  # PMS 280 C
+"amtk_heritage_blue" = "#0078b9"  # PMS 300 C
+"amtk_red" = "#ef3824"
+"anth_gray" = "#495153"  # Anthracite Gray
+"blue" = "#00b1eb"  # PMS 299 C
+"green" = "#62a744"  # PMS 369 C
+"lt_blue" = "#7bc2d0"  # PMS 630 C
+"orange" = "#f9a13f"  # PMS 1375 C
+
+[columns]
+# Periodization
+year = "Fiscal Year"
+quarter = "Fiscal Quarter"
+year_quarter = "Fiscal Year Quarter"
+
+# Amtrak services, routes, and stations
+svc_line = "Service Line"
+svc = "Service"
+sub_svc = "Sub Service"
+route_miles = "Route Miles"
+station_code = "Arrival Station Code"
+station = "Arrival Station"
+station_name = "Arrival Station Name"
+station_type = "Arrival Station Type"
+
+# Location
+city = "City"
+address_01 = "Address 01"
+address_02 = "Address 02"
+zip_code = "ZIP Code"
+state = "State"
+division = "Division"
+region = "Region"
+country = "Country"
+lat = "Latitude"
+lon = "Longitude"
+
+# Trains
+trn = "Train Number"
+trn_arrivals = "Train Arrivals"
+trn_arrival_ratio = "Train Arrival Ratio"
+
+# Detraining passengers
+avg_mm_late = "Avg Min Late"
+avg_mm_late_c = "Avg Min Late (Lt C)"
+avg_mm_late_cs = "Avg Min Late (Lt CS)"
+detrn_ratio = "Detraining Ratio"
+late_detrn = "Late Detraining Customers"
+late_detrn_avg_mm_late = "Late Detraining Customers Avg Min Late"
+late_to_total_detrn_ratio = "Late to Total Detraining Customers Ratio"
+predict_avg_mm_late = "Predicted Avg Min Late"
+total_detrn = "Total Detraining Customers"
+total_detrn_sum = "Total Detraining Customers sum"
+
+[service_lines]
+nec = "Northeast Corridor"
+state = "State Supported"
+long_dist = "Long Distance"
+
+[services]
+mich = "Michigan"
+
+[stations]
+chi = "Chicago Union Station (CHI), Chicago, IL"
+lax = "Union Station (LAX), Los Angeles, CA"
+nol = "Union Passenger Terminal (NOL), New Orleans, LA"
+nyp = "Moynihan Train Hall at Penn Station (NYP), New York, NY"
+
+[train]
+
+[train.direction]
+eb = "eastbound"
+nb = "northbound"
+sb = "southbound"
+wb = "westbound"
+
+[train.sub_service]
+ace = "Acela"
+ace_xp = "Acela Express"
+blwtr = "Blue Water"
+cno = "City of New Orleans"  # Of capitalized in the data set
+prmrq = "Pere Marquette"
+surf = "Pacific Surfliner"
+wolv = "Wolverine"
+
+[train.58]
+name = "City of New Orleans"
+number = 58
+route = "New Orleans, LA to Chicago, IL"
+direction = "northbound"
+
+[train.59]
+name = "City of New Orleans"
+number = 59
+route = "Chicago, IL to New Orleans, LA"
+direction = "southbound"
+
+[train.350]
+name = "Wolverine"
+number = 350
+route = "Chicago, IL to Pontiac, MI"
+direction = "eastbound"
+
+[train.351]
+name = "Wolverine"
+number = 351
+route = "Pontiac, MI to Chicago, IL"
+direction = "westbound"
+
+[train.352]
+name = "Wolverine"
+number = 352
+route = "Chicago, IL to Pontiac, MI"
+direction = "eastbound"
+
+[train.353]
+name = "Wolverine"
+number = 353
+route = "Pontiac, MI to Chicago, IL"
+direction = "westbound"
+
+[train.354]
+name = "Wolverine"
+number = 354
+route = "Chicago, IL to Pontiac, MI"
+direction = "eastbound"
+
+[train.355]
+name = "Wolverine"
+number = 355
+route = "Pontiac, MI to Chicago, IL"
+direction = "westbound"
+
+[train.364]
+name = "Blue Water"
+number = 364
+route = "Chicago, IL to Port Huron, MI"
+direction = "eastbound"
+
+[train.365]
+name = "Blue Water"
+number = 365
+route = "Port Huron, MI to Chicago, IL"
+direction = "westbound"
+
+[train.370]
+name = "Pere Marquette"
+number = 370
+route = "Chicago, IL to Grand Rapids, MI"
+direction = "eastbound"
+
+[train.371]
+name = "Pere Marquette"
+number = 371
+route = "Grand Rapids, MI to Chicago, IL"
+direction = "westbound"
+
+[train.774]
+name = "Pacific Surfliner"
+number = 774
+route = "San Luis Obispo, CA to San Diego, CA"
+direction = "southbound"
+
+[train.777]
+name = "Pacific Surfliner"
+number = 777
+route = "San Diego, CA to San Luis Obispo, CA"
+direction = "northbound"
+
+[train.2154]
+name = "Acela Express"
+number = 2154
+route = "Washington, DC to Boston, MA"
+direction = "northbound"
+
+[train.2155]
+name = "Acela Express"
+number = 2155
+route = "Boston, MA to Washington, DC"
+direction = "southbound"

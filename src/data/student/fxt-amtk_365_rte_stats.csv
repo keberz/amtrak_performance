@@ -1,0 +1,11 @@
+Train Number,Arrival Station Code,Arrival Station,State,Latitude,Longitude,Train Arrivals,Total Detraining Customers sum,Total Detraining Customers mean,Total Detraining Customers median,Total Detraining Customers std,Late Detraining Customers sum,Late Detraining Customers mean,Late Detraining Customers median,Late Detraining Customers std,Late to Total Detraining Customers Ratio,Late Detraining Customers Avg Min Late mean,Total On Time Detraining Customers sum
+365,LPE,Lapeer,Michigan,43.04952,-83.306154,11,87,7.9091,7.0,5.1856,4,0.3636,0.0,0.9244,0.046,70.0,83
+365,FLN,Flint,Michigan,43.015425,-83.651728,11,797,72.4545,73.0,18.8805,73,6.6364,7.0,3.5853,0.0916,38.7273,724
+365,DRD,Durand,Michigan,42.909495,-83.98232,11,185,16.8182,15.0,8.0848,11,1.0,1.0,1.2649,0.0595,39.1667,174
+365,LNS,East Lansing,Michigan,42.718731,-84.495962,11,3139,285.3636,279.0,39.8855,163,14.8182,14.0,10.4864,0.0519,42.3,2976
+365,BTL,Battle Creek,Michigan,42.318453,-85.187825,11,2538,230.7273,225.0,22.874,203,18.4545,14.0,11.0215,0.08,40.2727,2335
+365,KAL,Kalamazoo,Michigan,42.295255,-85.584018,11,8703,791.1818,762.0,156.1818,1123,102.0909,98.0,57.3018,0.129,42.4545,7580
+365,DOA,Dowagiac,Michigan,41.980941,-86.109041,11,1449,131.7273,119.0,22.8521,268,24.3636,19.0,12.3957,0.185,40.5455,1181
+365,NLS,Niles,Michigan,41.837412,-86.252372,11,3625,329.5455,322.0,69.4872,784,71.2727,68.0,29.2339,0.2163,42.5455,2841
+365,NBU,New Buffalo,Michigan,41.796656,-86.745782,11,3193,290.2727,240.0,109.8345,763,69.3636,69.0,41.3262,0.239,39.0,2430
+365,CHI,Chicago (Union Station),Illinois,41.878992,-87.641015,11,204690,18608.1818,18972.0,3427.3903,69397,6308.8182,4687.0,3377.0266,0.339,40.0909,135293

@@ -1,0 +1,1024 @@
+[
+    {
+        "service line": "Long Distance",
+        "sub service": "Auto Train",
+        "url": "https://www.amtrak.com/auto-train",
+        "hosts": [
+            {
+                "host": "Central Florida Rail Corridor",
+                "miles": 16
+            },
+            {
+                "host": "CSX",
+                "miles": 898
+            }
+        ],
+        "station codes": [],
+        "station order": {}
+    },
+    {
+        "service line": "Long Distance",
+        "sub service": "California Zephyr",
+        "url": "https://www.amtrak.com/california-zephyr-train",
+        "hosts": [
+            {
+                "host": "BNSF",
+                "miles": 1027
+            },
+            {
+                "host": "UP",
+                "miles": 1381
+            }
+        ],
+        "station codes": [],
+        "station order": {}
+    },
+    {
+        "service line": "Long Distance",
+        "sub service": "Capitol Ltd",
+        "url": "https://www.amtrak.com/capitol-limited-train",
+        "hosts": [
+            {
+                "host": "CSX",
+                "miles": 307
+            },
+            {
+                "host": "Norfolk Southern",
+                "miles": 481
+            }
+        ],
+        "station codes": [],
+        "station order": {}
+    },
+    {
+        "service line": "Long Distance",
+        "sub service": "Cardinal",
+        "url": "https://www.amtrak.com/cardinal-train",
+        "hosts": [
+            {
+                "host": "Amtrak",
+                "miles": 226
+            },
+            {
+                "host": "Buckingham Branch Railroad",
+                "miles": 132
+            },
+            {
+                "host": "CSX",
+                "miles": 703
+            },
+            {
+                "host": "Norfolk Southern",
+                "miles": 79
+            }
+        ],
+        "station codes": [],
+        "station order": {}
+    },
+    {
+        "service line": "Long Distance",
+        "sub service": "City Of New Orleans",
+        "url": "https://www.amtrak.com/city-of-new-orleans-train",
+        "hosts": [
+            {
+                "host": "CN",
+                "miles": 930
+            }
+        ],
+        "station codes": [],
+        "station order": {}
+    },
+    {
+        "service line": "Long Distance",
+        "sub service": "Coast Starlight",
+        "url": "https://www.amtrak.com/coast-starlight-train",
+        "hosts": [
+            {
+                "host": "BNSF",
+                "miles": 158
+            },
+            {
+                "host": "SCRRA",
+                "miles": 48
+            },
+            {
+                "host": "Sound Transit",
+                "miles": 20
+            },
+            {
+                "host": "UP",
+                "miles": 1162
+            }
+        ],
+        "station codes": [],
+        "station order": {}
+    },
+    {
+        "service line": "Long Distance",
+        "sub service": "Crescent",
+        "url": "https://www.amtrak.com/crescent-train",
+        "hosts": [
+            {
+                "host": "Amtrak",
+                "miles": 226
+            },
+            {
+                "host": "Norfolk Southern",
+                "miles": 1141
+            }
+        ],
+        "station codes": [],
+        "station order": {}
+    },
+    {
+        "service line": "Long Distance",
+        "sub service": "Empire Builder",
+        "url": "https://www.amtrak.com/empire-builder-train",
+        "hosts": [
+            {
+                "host": "BNSF",
+                "miles": 2147
+            },
+            {
+                "host": "CPKC",
+                "miles": 384
+            },
+            {
+                "host": "Metra",
+                "miles": 29
+            }
+        ],
+        "station codes": [],
+        "station order": {}
+    },
+    {
+        "service line": "Long Distance",
+        "sub service": "Lake Shore Ltd",
+        "url": "https://www.amtrak.com/lake-shore-limited-train",
+        "hosts": [
+            {
+                "host": "Amtrak",
+                "miles": 111
+            },
+            {
+                "host": "CSX",
+                "miles": 741
+            },
+            {
+                "host": "Metro-North Railroad",
+                "miles": 64
+            },
+            {
+                "host": "Norfolk Southern",
+                "miles": 339
+            }
+        ],
+        "station codes": [],
+        "station order": {}
+    },
+    {
+        "service line": "Long Distance",
+        "sub service": "Palmetto",
+        "url": "https://www.amtrak.com/palmetto-train",
+        "hosts": [
+            {
+                "host": "Amtrak",
+                "miles": 226
+            },
+            {
+                "host": "CSX",
+                "miles": 659
+            }
+        ],
+        "station codes": [],
+        "station order": {}
+    },
+    {
+        "service line": "Long Distance",
+        "sub service": "Silver Meteor",
+        "url": "https://www.amtrak.com/silver-meteor-train",
+        "hosts": [
+            {
+                "host": "Central Florida Rail Corridor",
+                "miles": 61
+            },
+            {
+                "host": "CSX",
+                "miles": 1152
+            },
+            {
+                "host": "Florida DOT",
+                "miles": 68
+            }
+        ],
+        "station codes": [],
+        "station order": {}
+    },
+    {
+        "service line": "Long Distance",
+        "sub service": "Silver Star",
+        "url": "https://www.amtrak.com/silver-star-train",
+        "hosts": [
+            {
+                "host": "Amtrak",
+                "miles": 226
+            },
+            {
+                "host": "Central Florida Rail Corridor",
+                "miles": 61
+            },
+            {
+                "host": "CSX",
+                "miles": 1209
+            },
+            {
+                "host": "Florida DOT",
+                "miles": 68
+            },
+            {
+                "host": "Norfolk Southern",
+                "miles": 28
+            }
+        ],
+        "station codes": [],
+        "station order": {}
+    },
+    {
+        "service line": "Long Distance",
+        "sub service": "Southwest Chief",
+        "url": "https://www.amtrak.com/southwest-chief-train",
+        "hosts": [
+            {
+                "host": "BNSF",
+                "miles": 2206
+            },
+            {
+                "host": "New Mexico DOT",
+                "miles": 80
+            }
+        ],
+        "station codes": [],
+        "station order": {}
+    },
+    {
+        "service line": "Long Distance",
+        "sub service": "Sunset Ltd",
+        "url": "https://www.amtrak.com/sunset-limited-train",
+        "hosts": [
+            {
+                "host": "BNSF",
+                "miles": 190
+            },
+            {
+                "host": "UP",
+                "miles": 1784
+            }
+        ],
+        "station codes": [],
+        "station order": {}
+    },
+    {
+        "service line": "Long Distance",
+        "sub service": "Texas Eagle",
+        "url": "https://www.amtrak.com/texas-eagle-train",
+        "hosts": [
+            {
+                "host": "BNSF",
+                "miles": 116
+            },
+            {
+                "host": "CN",
+                "miles": 35
+            },
+            {
+                "host": "Trinity Rail Express",
+                "miles": 33
+            },
+            {
+                "host": "UP",
+                "miles": 1073
+            }
+        ],
+        "station codes": [],
+        "station order": {}
+    },
+    {
+        "service line": "Northeast Corridor",
+        "sub service": "Acela",
+        "url": "https://www.amtrak.com/acela-train",
+        "hosts": [
+            {
+                "host": "Amtrak",
+                "miles": 401
+            },
+            {
+                "host": "Metro-North Railroad",
+                "miles": 56
+            }
+        ],
+        "station codes": [],
+        "station order": {}
+    },
+    {
+        "service line": "Northeast Corridor",
+        "sub service": "Acela Express",
+        "url": "https://www.amtrak.com/acela-express-train",
+        "hosts": [
+            {
+                "host": "Amtrak",
+                "miles": 401
+            },
+            {
+                "host": "Metro-North Railroad",
+                "miles": 56
+            }
+        ],
+        "station codes": [],
+        "station order": {}
+    },
+    {
+        "service line": "Northeast Corridor",
+        "sub service": "On Spine Northeast Regional",
+        "url": "https://www.amtrak.com/northeast-regional-train",
+        "hosts": [
+            {
+                "host": "Amtrak",
+                "miles": 463
+            },
+            {
+                "host": "Metro-North Railroad",
+                "miles": 56
+            }
+        ],
+        "station codes": [],
+        "station order": {}
+    },
+    {
+        "service line": "Northeast Corridor",
+        "sub service": "Richmond / Newport News / Norfolk",
+        "url": "https://www.amtrak.com/virginia",
+        "hosts": [
+            {
+                "host": "Amtrak",
+                "miles": 463
+            },
+            {
+                "host": "CSX",
+                "miles": 189
+            },
+            {
+                "host": "Metro-North Railroad",
+                "miles": 56
+            },
+            {
+                "host": "Norfolk Southern",
+                "miles": 81
+            }
+        ],
+        "station codes": [],
+        "station order": {}
+    },
+    {
+        "service line": "Northeast Corridor",
+        "sub service": "Roanoke",
+        "url": "https://www.amtrak.com/virginia",
+        "hosts": [
+            {
+                "host": "Amtrak",
+                "miles": 463
+            },
+            {
+                "host": "Metro-North Railroad",
+                "miles": 56
+            },
+            {
+                "host": "Norfolk Southern",
+                "miles": 216
+            }
+        ],
+        "station codes": [],
+        "station order": {}
+    },
+    {
+        "service line": "Northeast Corridor",
+        "sub service": "Springfield Shuttles",
+        "url": "https://www.amtrak.com/amtrak-hartford-line-train",
+        "hosts": [
+            {
+                "host": "Amtrak",
+                "miles": 62
+            },
+            {
+                "host": "Massachusetts DOT",
+                "miles": 36
+            }
+        ],
+        "station codes": [],
+        "station order": {}
+    },
+    {
+        "service line": "State Supported",
+        "sub service": "Adirondack",
+        "url": "https://www.amtrak.com/adirondack-train",
+        "hosts": [
+            {
+                "host": "Amtrak",
+                "miles": 100
+            },
+            {
+                "host": "CN",
+                "miles": 49
+            },
+            {
+                "host": "CPKC",
+                "miles": 178
+            }
+        ],
+        "station codes": [],
+        "station order": {}
+    },
+    {
+        "service line": "State Supported",
+        "sub service": "Berkshire Flyer",
+        "url": "https://www.amtrak.com/berkshire-flyer-train",
+        "hosts": [
+            {
+                "host": "Amtrak",
+                "miles": 97
+            },
+            {
+                "host": "CSX",
+                "miles": 46
+            },
+            {
+                "host": "Metro-North Railroad",
+                "miles": 64
+            }
+        ],
+        "station codes": [],
+        "station order": {}
+    },
+    {
+        "service line": "State Supported",
+        "sub service": "Blue Water",
+        "url": "https://www.amtrak.com/michigan-services-train",
+        "hosts": [
+            {
+                "host": "Amtrak",
+                "miles": 99
+            },
+            {
+                "host": "CN",
+                "miles": 159
+            },
+            {
+                "host": "Michigan DOT",
+                "miles": 22
+            },
+            {
+                "host": "Norfolk Southern",
+                "miles": 39
+            }
+        ],
+        "station codes": [
+            "BTL",
+            "CHI",
+            "DOA",
+            "DRD",
+            "FLN",
+            "KAL",
+            "LNS",
+            "LPE",
+            "NBU",
+            "NLS",
+            "PTH"
+        ],
+        "station order": {
+            "eastbound": {
+                "CHI": 0,
+                "NBU": 1,
+                "NLS": 2,
+                "DOA": 3,
+                "KAL": 4,
+                "BTL": 5,
+                "LNS": 6,
+                "DRD": 7,
+                "FLN": 8,
+                "LPE": 9,
+                "PTH": 10
+            },
+            "westbound": {
+                "PTH": 0,
+                "LPE": 1,
+                "FLN": 2,
+                "DRD": 3,
+                "LNS": 4,
+                "BTL": 5,
+                "KAL": 6,
+                "DOA": 7,
+                "NLS": 8,
+                "NBU": 9,
+                "CHI": 10
+            }
+        }
+    },
+    {
+        "service line": "State Supported",
+        "sub service": "Borealis",
+        "url": "https://www.amtrak.com/borealis-train",
+        "hosts": [
+            {
+                "host": "CPKC",
+                "miles": 376
+            },
+            {
+                "host": "Metra",
+                "miles": 33
+            }
+        ],
+        "station codes": [],
+        "station order": {}
+    },
+    {
+        "service line": "State Supported",
+        "sub service": "Capitol Corridor",
+        "url": "https://www.amtrak.com/capitol-corridor-train",
+        "hosts": [
+            {
+                "host": "UP",
+                "miles": 171
+            }
+        ],
+        "station codes": [],
+        "station order": {}
+    },
+    {
+        "service line": "State Supported",
+        "sub service": "Carl Sandburg / Illinois Zephyr",
+        "url": "https://www.amtrak.com/illinois-services-train",
+        "hosts": [
+            {
+                "host": "BNSF",
+                "miles": 257
+            }
+        ],
+        "station codes": [],
+        "station order": {}
+    },
+    {
+        "service line": "State Supported",
+        "sub service": "Carolinian",
+        "url": "https://www.amtrak.com/routes/carolinian-train.html",
+        "hosts": [
+            {
+                "host": "CSX",
+                "miles": 295
+            },
+            {
+                "host": "Norfolk Southern",
+                "miles": 202
+            }
+        ],
+        "station codes": [],
+        "station order": {}
+    },
+    {
+        "service line": "State Supported",
+        "sub service": "Cascades",
+        "url": "https://www.amtrak.com/cascades-train",
+        "hosts": [
+            {
+                "host": "BNSF",
+                "miles": 317
+            },
+            {
+                "host": "Sound Transit",
+                "miles": 20
+            },
+            {
+                "host": "UP",
+                "miles": 125
+            }
+        ],
+        "station codes": [],
+        "station order": {}
+    },
+    {
+        "service line": "State Supported",
+        "sub service": "Downeaster",
+        "url": "https://www.amtrak.com/downeaster-train",
+        "hosts": [
+            {
+                "host": "MBTA",
+                "miles": 38
+            },
+            {
+                "host": "Pan Am Railways (CSX)",
+                "miles": 107
+            }
+        ],
+        "station codes": [],
+        "station order": {}
+    },
+    {
+        "service line": "State Supported",
+        "sub service": "Ethan Allen Express",
+        "url": "https://www.amtrak.com/ethan-allen-express-train",
+        "hosts": [
+            {
+                "host": "Amtrak",
+                "miles": 100
+            },
+            {
+                "host": "CPKC",
+                "miles": 60
+            },
+            {
+                "host": "Metro-North Railroad",
+                "miles": 64
+            },
+            {
+                "host": "Vermont Railway",
+                "miles": 24
+            }
+        ],
+        "station codes": [],
+        "station order": {}
+    },
+    {
+        "service line": "State Supported",
+        "sub service": "Heartland Flyer",
+        "url": "https://www.amtrak.com/heartland-flyer-train",
+        "hosts": [
+            {
+                "host": "BNSF",
+                "miles": 236
+            }
+        ],
+        "station codes": [],
+        "station order": {}
+    },
+    {
+        "service line": "State Supported",
+        "sub service": "Hiawatha",
+        "url": "https://www.amtrak.com/hiawatha-train",
+        "hosts": [
+            {
+                "host": "CPKC",
+                "miles": 53
+            },
+            {
+                "host": "Metra",
+                "miles": 29
+            }
+        ],
+        "station codes": [],
+        "station order": {}
+    },
+    {
+        "service line": "State Supported",
+        "sub service": "Illini / Saluki",
+        "url": "https://www.amtrak.com/illinois-services-train",
+        "hosts": [
+            {
+                "host": "CN",
+                "miles": 304
+            }
+        ],
+        "station codes": [],
+        "station order": {}
+    },
+    {
+        "service line": "State Supported",
+        "sub service": "Keystone",
+        "url": "https://www.amtrak.com/keystone-service-train",
+        "hosts": [
+            {
+                "host": "Amtrak",
+                "miles": 194
+            }
+        ],
+        "station codes": [],
+        "station order": {}
+    },
+    {
+        "service line": "State Supported",
+        "sub service": "Lincoln Service",
+        "url": "https://www.amtrak.com/lincoln-service-missouri-river-runner-train",
+        "hosts": [
+            {
+                "host": "CN",
+                "miles": 35
+            },
+            {
+                "host": "UP",
+                "miles": 231
+            }
+        ],
+        "station codes": [],
+        "station order": {}
+    },
+    {
+        "service line": "State Supported",
+        "sub service": "Lincoln / Missouri",
+        "url": null,
+        "hosts": [
+            {
+                "host": "CN",
+                "miles": 35
+            },
+            {
+                "host": "UP",
+                "miles": 502
+            }
+        ],
+        "station codes": [],
+        "station order": {}
+    },
+    {
+        "service line": "State Supported",
+        "sub service": "Maple Leaf",
+        "url": "https://www.amtrak.com/maple-leaf-train",
+        "hosts": [
+            {
+                "host": "Amtrak",
+                "miles": 109
+            },
+            {
+                "host": "CSX",
+                "miles": 298
+            },
+            {
+                "host": "Metro-North Railroad",
+                "miles": 64
+            }
+        ],
+        "station codes": [],
+        "station order": {}
+    },
+    {
+        "service line": "State Supported",
+        "sub service": "Missouri",
+        "url": "https://www.amtrak.com/missouri-river-runner-train",
+        "hosts": [
+            {
+                "host": "UP",
+                "miles": 271
+            }
+        ],
+        "station codes": [],
+        "station order": {}
+    },
+    {
+        "service line": "State Supported",
+        "sub service": "New York - Albany",
+        "url": "https://www.amtrak.com/empire-service-train",
+        "hosts": [
+            {
+                "host": "Amtrak",
+                "miles": 81
+            },
+            {
+                "host": "Metro-North Railroad",
+                "miles": 64
+            }
+        ],
+        "station codes": [],
+        "station order": {}
+    },
+    {
+        "service line": "State Supported",
+        "sub service": "New York - Niagara Falls",
+        "url": "https://www.amtrak.com/empire-service-train",
+        "hosts": [
+            {
+                "host": "Amtrak",
+                "miles": 109
+            },
+            {
+                "host": "CSX",
+                "miles": 296
+            },
+            {
+                "host": "Metro-North Railroad",
+                "miles": 64
+            }
+        ],
+        "station codes": [],
+        "station order": {}
+    },
+    {
+        "service line": "State Supported",
+        "sub service": "Pacific Surfliner",
+        "url": "https://www.amtrak.com/pacific-surfliner-train",
+        "hosts": [
+            {
+                "host": "BNSF",
+                "miles": 22
+            },
+            {
+                "host": "San Diego Northern",
+                "miles": 60
+            },
+            {
+                "host": "SCRRA",
+                "miles": 95
+            },
+            {
+                "host": "UP",
+                "miles": 174
+            }
+        ],
+        "station codes": [],
+        "station order": {}
+    },
+    {
+        "service line": "State Supported",
+        "sub service": "Pennsylvanian",
+        "url": "https://www.amtrak.com/pennsylvanian-train",
+        "hosts": [
+            {
+                "host": "Amtrak",
+                "miles": 195
+            },
+            {
+                "host": "Norfolk Southern",
+                "miles": 249
+            }
+        ],
+        "station codes": [],
+        "station order": {}
+    },
+    {
+        "service line": "State Supported",
+        "sub service": "Pere Marquette",
+        "url": "https://www.amtrak.com/michigan-services-train",
+        "hosts": [
+            {
+                "host": "CSX",
+                "miles": 135
+            },
+            {
+                "host": "Norfolk Southern",
+                "miles": 39
+            }
+        ],
+        "station codes": [
+            "BAM",
+            "CHI",
+            "GRR",
+            "HOM",
+            "SJM"
+        ],
+        "station order": {
+            "eastbound": {
+                "CHI": 0,
+                "SJM": 1,
+                "BAM": 2,
+                "HOM": 3,
+                "GRR": 4
+            },
+            "westbound": {
+                "GRR": 0,
+                "HOM": 1,
+                "BAM": 2,
+                "SJM": 3,
+                "CHI": 4
+            }
+        }
+    },
+    {
+        "service line": "State Supported",
+        "sub service": "Piedmont",
+        "url": "https://www.amtrak.com/piedmont-train",
+        "hosts": [
+            {
+                "host": "Norfolk Southern",
+                "miles": 173
+            }
+        ],
+        "station codes": [],
+        "station order": {}
+    },
+    {
+        "service line": "State Supported",
+        "sub service": "San Joaquins",
+        "url": "https://www.amtrak.com/san-joaquins-train",
+        "hosts": [
+            {
+                "host": "BNSF",
+                "miles": 284
+            },
+            {
+                "host": "UP",
+                "miles": 88
+            }
+        ],
+        "station codes": [],
+        "station order": {}
+    },
+    {
+        "service line": "State Supported",
+        "sub service": "Vermonter",
+        "url": "https://www.amtrak.com/vermonter-train",
+        "hosts": [
+            {
+                "host": "Amtrak",
+                "miles": 304
+            },
+            {
+                "host": "Massachusetts DOT",
+                "miles": 50
+            },
+            {
+                "host": "Metro-North Railroad",
+                "miles": 56
+            },
+            {
+                "host": "New England Central Railroad (NECR)",
+                "miles": 192
+            }
+        ],
+        "station codes": [],
+        "station order": {}
+    },
+    {
+        "service line": "State Supported",
+        "sub service": "Wolverine",
+        "url": "https://www.amtrak.com/michigan-services-train",
+        "hosts": [
+            {
+                "host": "Amtrak",
+                "miles": 99
+            },
+            {
+                "host": "CN",
+                "miles": 27
+            },
+            {
+                "host": "Michigan DOT",
+                "miles": 134
+            },
+            {
+                "host": "Norfolk Southern",
+                "miles": 39
+            }
+        ],
+        "station codes": [
+            "ALI",
+            "ARB",
+            "BTL",
+            "CHI",
+            "DER",
+            "DET",
+            "DOA",
+            "HMI",
+            "JXN",
+            "KAL",
+            "MCI",
+            "NBU",
+            "NLS",
+            "PNT",
+            "ROY",
+            "TRM"
+        ],
+        "station order": {
+            "eastbound": {
+                "CHI": 0,
+                "HMI": 1,
+                "MCI": 2,
+                "NBU": 3,
+                "NLS": 4,
+                "DOA": 5,
+                "KAL": 6,
+                "BTL": 7,
+                "ALI": 8,
+                "JXN": 9,
+                "ARB": 10,
+                "DER": 11,
+                "DET": 12,
+                "ROY": 13,
+                "TRM": 14,
+                "PNT": 15
+            },
+            "westbound": {
+                "PNT": 0,
+                "TRM": 1,
+                "ROY": 2,
+                "DET": 3,
+                "DER": 4,
+                "ARB": 5,
+                "JXN": 6,
+                "ALI": 7,
+                "BTL": 8,
+                "KAL": 9,
+                "DOA": 10,
+                "NLS": 11,
+                "NBU": 12,
+                "MCI": 13,
+                "HMI": 14,
+                "CHI": 15
+            }
+        }
+    }
+]

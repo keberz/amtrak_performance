@@ -1,0 +1,5 @@
+Train Number,Arrival Station Code,Arrival Station,State,Latitude,Longitude,Train Arrivals,Total Detraining Customers sum,Total Detraining Customers mean,Total Detraining Customers median,Total Detraining Customers std,Late Detraining Customers sum,Late Detraining Customers mean,Late Detraining Customers median,Late Detraining Customers std,Late to Total Detraining Customers Ratio,Late Detraining Customers Avg Min Late mean,Total On Time Detraining Customers sum
+370,SJM,St. Joseph,Michigan,42.10908,-86.484484,11,15941,1449.1818,1533.0,327.615,3385,307.7273,286.0,187.3633,0.2123,42.8182,12556
+370,BAM,Bangor,Michigan,42.314519,-86.111646,11,4486,407.8182,365.0,128.0311,1292,117.4545,107.0,58.9514,0.288,39.0909,3194
+370,HOM,Holland,Michigan,42.791096,-86.096553,11,40144,3649.4545,3732.0,647.7801,12121,1101.9091,1032.0,394.9968,0.3019,37.2727,28023
+370,GRR,Grand Rapids,Michigan,42.955788,-85.672447,11,56472,5133.8182,5186.0,747.2168,10013,910.2727,976.0,317.1426,0.1773,44.3636,46459

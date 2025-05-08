@@ -1,0 +1,13 @@
+Train Number,Arrival Station Code,Arrival Station,State,Latitude,Longitude,Train Arrivals,Total Detraining Customers sum,Total Detraining Customers mean,Total Detraining Customers median,Total Detraining Customers std,Late Detraining Customers sum,Late Detraining Customers mean,Late Detraining Customers median,Late Detraining Customers std,Late to Total Detraining Customers Ratio,Late Detraining Customers Avg Min Late mean,Total On Time Detraining Customers sum
+353,TRM,Troy,Michigan,42.542555,-83.191026,7,29,4.1429,3.0,3.1848,0,0.0,0.0,0.0,0.0,,29
+353,ROY,Royal Oak,Michigan,42.488439,-83.14701,10,49,4.9,4.0,3.9847,0,0.0,0.0,0.0,0.0,,49
+353,DET,Detroit,Michigan,42.368097,-83.072397,11,303,27.5455,27.0,10.8661,11,1.0,0.0,1.3416,0.0363,33.0,292
+353,DER,Dearborn,Michigan,42.307167,-83.235311,11,267,24.2727,24.0,8.7988,20,1.8182,1.0,2.7863,0.0749,37.4286,247
+353,ARB,Ann Arbor,Michigan,42.287692,-83.743154,11,6291,571.9091,585.0,77.7463,1033,93.9091,77.0,67.0827,0.1642,37.1818,5258
+353,JXN,Jackson,Michigan,42.248113,-84.39967,11,1673,152.0909,148.0,22.678,615,55.9091,47.0,38.0958,0.3676,33.0909,1058
+353,BTL,Battle Creek,Michigan,42.318453,-85.187825,11,2309,209.9091,210.0,33.4678,571,51.9091,46.0,34.1803,0.2473,50.8182,1738
+353,KAL,Kalamazoo,Michigan,42.295255,-85.584018,11,9240,840.0,848.0,154.2874,2131,193.7273,157.0,110.5234,0.2306,49.3636,7109
+353,NLS,Niles,Michigan,41.837412,-86.252372,11,3654,332.1818,338.0,63.6252,1134,103.0909,93.0,59.8823,0.3103,43.9091,2520
+353,NBU,New Buffalo,Michigan,41.796656,-86.745782,11,2520,229.0909,244.0,57.6393,969,88.0909,65.0,52.2904,0.3845,40.2727,1551
+353,HMI,Hammond-Whiting,Indiana,41.691155,-87.506511,11,2861,260.0909,253.0,50.769,1211,110.0909,107.0,34.6394,0.4233,46.6364,1650
+353,CHI,Chicago (Union Station),Illinois,41.878992,-87.641015,11,177123,16102.0909,15340.0,2607.4264,35470,3224.5455,3199.0,977.2552,0.2003,56.1818,141653

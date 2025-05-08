@@ -1,0 +1,93 @@
+{
+    "Northeast": {
+      "New England": [
+        {"entity": "Connecticut", "FIPS": "09"},
+        {"entity": "Maine", "FIPS": "23"},
+        {"entity": "Massachusetts", "FIPS": "25"},
+        {"entity": "New Hampshire", "FIPS": "33"},
+        {"entity": "Rhode Island", "FIPS": "44"},
+        {"entity": "Vermont", "FIPS": "50"}
+      ],
+      "Middle Atlantic": [
+        {"entity": "New Jersey", "FIPS": "34"},
+        {"entity": "New York", "FIPS": "36"},
+        {"entity": "Pennsylvania", "FIPS": "42"}
+      ],
+      "Eastern Canada": [
+        {"entity": "New Brunswick", "FIPS": null},
+        {"entity": "Newfoundland and Labrador", "FIPS": null},
+        {"entity": "Nova Scotia", "FIPS": null},
+        {"entity": "Ontario", "FIPS": null},
+        {"entity": "Prince Edward Island", "FIPS": null},
+        {"entity": "Quebec", "FIPS": null}
+      ]
+    },
+    "Midwest": {
+      "East North Central": [
+        {"entity": "Indiana", "FIPS": "18"},
+        {"entity": "Illinois", "FIPS": "17"},
+        {"entity": "Michigan", "FIPS": "26"},
+        {"entity": "Ohio", "FIPS": "39"},
+        {"entity": "Wisconsin", "FIPS": "55"}
+      ],
+      "West North Central": [
+        {"entity": "Iowa", "FIPS": "19"},
+        {"entity": "Kansas", "FIPS": "20"},
+        {"entity": "Minnesota", "FIPS": "27"},
+        {"entity": "Missouri", "FIPS": "29"},
+        {"entity": "Nebraska", "FIPS": "31"},
+        {"entity": "North Dakota", "FIPS": "38"},
+        {"entity": "South Dakota", "FIPS": "46"}
+      ]
+    },
+    "South": {
+      "South Atlantic": [
+        {"entity": "Delaware", "FIPS": "10"},
+        {"entity": "District of Columbia", "FIPS": "11"},
+        {"entity": "Florida", "FIPS": "12"},
+        {"entity": "Georgia", "FIPS": "13"},
+        {"entity": "Maryland", "FIPS": "24"},
+        {"entity": "North Carolina", "FIPS": "37"},
+        {"entity": "South Carolina", "FIPS": "45"},
+        {"entity": "Virginia", "FIPS": "51"},
+        {"entity": "West Virginia", "FIPS": "54"}
+      ],
+      "East South Central": [
+        {"entity": "Alabama", "FIPS": "01"},
+        {"entity": "Kentucky", "FIPS": "21"},
+        {"entity": "Mississippi", "FIPS": "28"},
+        {"entity": "Tennessee", "FIPS": "47"}
+      ],
+      "West South Central": [
+        {"entity": "Arkansas", "FIPS": "05"},
+        {"entity": "Louisiana", "FIPS": "22"},
+        {"entity": "Oklahoma", "FIPS": "40"},
+        {"entity": "Texas", "FIPS": "48"}
+      ]
+    },
+    "West": {
+      "Mountain": [
+        {"entity": "Arizona", "FIPS": "04"},
+        {"entity": "Colorado", "FIPS": "08"},
+        {"entity": "Idaho", "FIPS": "16"},
+        {"entity": "Montana", "FIPS": "30"},
+        {"entity": "Nevada", "FIPS": "32"},
+        {"entity": "New Mexico", "FIPS": "35"},
+        {"entity": "Utah", "FIPS": "49"},
+        {"entity": "Wyoming", "FIPS": "56"}
+      ],
+      "Pacific": [
+        {"entity": "Alaska", "FIPS": "02"},
+        {"entity": "California", "FIPS": "06"},
+        {"entity": "Hawaii", "FIPS": "15"},
+        {"entity": "Oregon", "FIPS": "41"},
+        {"entity": "Washington", "FIPS": "53"}
+      ],
+      "Western Canada": [
+        {"entity": "Alberta", "FIPS": null},
+        {"entity": "British Columbia", "FIPS": null},
+        {"entity": "Manitoba", "FIPS": null},
+        {"entity": "Saskatchewan", "FIPS": null}
+      ]
+    }
+  }

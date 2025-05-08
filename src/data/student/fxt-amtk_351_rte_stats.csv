@@ -1,0 +1,11 @@
+Train Number,Arrival Station Code,Arrival Station,State,Latitude,Longitude,Train Arrivals,Total Detraining Customers sum,Total Detraining Customers mean,Total Detraining Customers median,Total Detraining Customers std,Late Detraining Customers sum,Late Detraining Customers mean,Late Detraining Customers median,Late Detraining Customers std,Late to Total Detraining Customers Ratio,Late Detraining Customers Avg Min Late mean,Total On Time Detraining Customers sum
+351,TRM,Troy,Michigan,42.542555,-83.191026,4,8,2.0,1.5,1.4142,0,0.0,0.0,0.0,0.0,,8
+351,ROY,Royal Oak,Michigan,42.488439,-83.14701,5,18,3.6,3.0,2.51,0,0.0,0.0,0.0,0.0,,18
+351,DET,Detroit,Michigan,42.368097,-83.072397,11,169,15.3636,16.0,7.0608,11,1.0,1.0,1.0954,0.0651,35.1667,158
+351,DER,Dearborn,Michigan,42.307167,-83.235311,11,128,11.6364,8.0,8.4649,16,1.4545,2.0,1.1282,0.125,26.7143,112
+351,ARB,Ann Arbor,Michigan,42.287692,-83.743154,11,1721,156.4545,151.0,41.7142,345,31.3636,32.0,15.8447,0.2005,32.0,1376
+351,JXN,Jackson,Michigan,42.248113,-84.39967,11,776,70.5455,69.0,10.7365,256,23.2727,20.0,17.4132,0.3299,30.1818,520
+351,ALI,Albion,Michigan,42.247196,-84.755814,11,772,70.1818,80.0,17.4403,296,26.9091,23.0,14.8893,0.3834,29.6364,476
+351,BTL,Battle Creek,Michigan,42.318453,-85.187825,11,2235,203.1818,205.0,71.9608,934,84.9091,61.0,55.4968,0.4179,32.5455,1301
+351,KAL,Kalamazoo,Michigan,42.295255,-85.584018,11,6076,552.3636,562.0,122.4682,2208,200.7273,135.0,133.8081,0.3634,34.7273,3868
+351,CHI,Chicago (Union Station),Illinois,41.878992,-87.641015,11,175079,15916.2727,16921.0,3155.2069,59421,5401.9091,5649.0,2101.9358,0.3394,48.1818,115658

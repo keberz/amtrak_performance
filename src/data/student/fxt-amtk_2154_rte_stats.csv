@@ -1,0 +1,14 @@
+Train Number,Arrival Station Code,Arrival Station,State,Latitude,Longitude,Train Arrivals,Total Detraining Customers sum,Total Detraining Customers mean,Total Detraining Customers median,Total Detraining Customers std,Late Detraining Customers sum,Late Detraining Customers mean,Late Detraining Customers median,Late Detraining Customers std,Late to Total Detraining Customers Ratio,Late Detraining Customers Avg Min Late mean,Total On Time Detraining Customers sum
+2154,BWI,BWI Thurgood Marshall Airport Station,Maryland,39.192362,-76.6943,12,1278,106.5,95.0,48.6051,41,3.4167,3.0,2.811,0.0321,27.7,1237
+2154,BAL,Baltimore (Penn Station),Maryland,39.307302,-76.615688,12,1669,139.0833,151.5,48.9702,83,6.9167,4.0,6.0221,0.0497,26.2727,1586
+2154,WIL,Wilmington,Delaware,39.737263,-75.551095,12,4089,340.75,382.5,129.1955,275,22.9167,22.0,13.8003,0.0673,24.5,3814
+2154,PHL,Philadelphia (Gray 30th St Sta),Pennsylvania,39.955615,-75.181041,12,25334,2111.1667,2221.0,518.8538,2468,205.6667,240.5,77.4331,0.0974,25.0,22866
+2154,TRE,Trenton,New Jersey,40.219011,-74.75444,1,28,28.0,28.0,,1,1.0,1.0,,0.0357,11.0,27
+2154,NWK,Newark (Penn Station),New Jersey,40.734706,-74.16475,12,9512,792.6667,842.5,127.6446,1683,140.25,125.0,71.9319,0.1769,23.0833,7829
+2154,NYP,NY Moynihan Train Hall at Penn Station,New York,40.751038,-73.996327,12,133093,11091.0833,11278.0,1207.6415,14971,1247.5833,1098.5,634.6931,0.1125,28.0833,118122
+2154,STM,Stamford,Connecticut,41.04713,-73.54216,12,7586,632.1667,645.0,81.4559,2130,177.5,146.5,94.4029,0.2808,22.0833,5456
+2154,NHV,New Haven (Union Station),Connecticut,41.297714,-72.92667,11,7418,674.3636,722.0,162.3387,1596,145.0909,144.0,68.5835,0.2152,25.3636,5822
+2154,PVD,Providence (Amtrak),Rhode Island,41.82949,-71.413478,12,19647,1637.25,1668.0,193.583,6986,582.1667,574.5,224.3264,0.3556,27.0833,12661
+2154,RTE,Route 128 (Westwood),Massachusetts,42.210242,-71.147894,12,23663,1971.9167,1902.0,376.4058,6278,523.1667,501.0,263.653,0.2653,30.0833,17385
+2154,BBY,Boston (Back Bay Station),Massachusetts,42.347317,-71.075828,12,38232,3186.0,3231.5,361.1137,10064,838.6667,716.5,378.755,0.2632,31.5,28168
+2154,BOS,Boston (South Station),Massachusetts,42.352311,-71.055304,12,77402,6450.1667,6602.5,761.3909,21484,1790.3333,1630.5,764.6153,0.2776,32.1667,55918

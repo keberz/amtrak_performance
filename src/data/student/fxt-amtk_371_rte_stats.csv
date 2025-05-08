@@ -1,0 +1,5 @@
+Train Number,Arrival Station Code,Arrival Station,State,Latitude,Longitude,Train Arrivals,Total Detraining Customers sum,Total Detraining Customers mean,Total Detraining Customers median,Total Detraining Customers std,Late Detraining Customers sum,Late Detraining Customers mean,Late Detraining Customers median,Late Detraining Customers std,Late to Total Detraining Customers Ratio,Late Detraining Customers Avg Min Late mean,Total On Time Detraining Customers sum
+371,HOM,Holland,Michigan,42.791096,-86.096553,11,460,41.8182,42.0,20.9276,7,0.6364,1.0,0.6742,0.0152,41.6667,453
+371,BAM,Bangor,Michigan,42.314519,-86.111646,11,183,16.6364,15.0,6.2012,6,0.5455,0.0,1.2136,0.0328,22.0,177
+371,SJM,St. Joseph,Michigan,42.10908,-86.484484,11,937,85.1818,79.0,28.4282,45,4.0909,3.0,3.7803,0.048,39.875,892
+371,CHI,Chicago (Union Station),Illinois,41.878992,-87.641015,11,119583,10871.1818,10944.0,1789.837,16442,1494.7273,1268.0,840.2458,0.1375,45.3636,103141

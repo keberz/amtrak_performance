@@ -1,0 +1,14 @@
+Train Number,Arrival Station Code,Arrival Station,State,Latitude,Longitude,Train Arrivals,Total Detraining Customers sum,Total Detraining Customers mean,Total Detraining Customers median,Total Detraining Customers std,Late Detraining Customers sum,Late Detraining Customers mean,Late Detraining Customers median,Late Detraining Customers std,Late to Total Detraining Customers Ratio,Late Detraining Customers Avg Min Late mean,Total On Time Detraining Customers sum
+2155,BBY,Boston (Back Bay Station),Massachusetts,42.347317,-71.075828,9,17,1.8889,2.0,0.928,0,0.0,0.0,0.0,0.0,,17
+2155,RTE,Route 128 (Westwood),Massachusetts,42.210242,-71.147894,10,28,2.8,2.0,2.201,1,0.1,0.0,0.3162,0.0357,16.0,27
+2155,PVD,Providence (Amtrak),Rhode Island,41.82949,-71.413478,12,6158,513.1667,502.5,117.8889,219,18.25,13.5,13.9618,0.0356,24.2727,5939
+2155,NHV,New Haven (Union Station),Connecticut,41.297714,-72.92667,12,4000,333.3333,348.5,85.8342,442,36.8333,16.0,38.7294,0.1105,24.1667,3558
+2155,STM,Stamford,Connecticut,41.04713,-73.54216,12,7912,659.3333,672.5,141.15,1535,127.9167,99.5,91.3957,0.194,21.3333,6377
+2155,NYP,NY Moynihan Train Hall at Penn Station,New York,40.751038,-73.996327,12,122032,10169.3333,10580.0,1206.4759,20019,1668.25,1296.0,968.1477,0.164,28.25,102013
+2155,NWK,Newark (Penn Station),New Jersey,40.734706,-74.16475,12,5434,452.8333,480.0,95.5004,1177,98.0833,79.5,68.8285,0.2166,26.1667,4257
+2155,MET,Metropark (Iselin),New Jersey,40.568056,-74.329583,11,3661,332.8182,387.0,174.7277,957,87.0,63.0,64.8521,0.2614,22.2,2704
+2155,PHL,Philadelphia (Gray 30th St Sta),Pennsylvania,39.955615,-75.181041,12,30483,2540.25,2516.0,362.5107,8892,741.0,682.5,289.7519,0.2917,23.1667,21591
+2155,WIL,Wilmington,Delaware,39.737263,-75.551095,12,9161,763.4167,755.5,117.2088,3191,265.9167,228.5,94.7527,0.3483,24.8333,5970
+2155,BAL,Baltimore (Penn Station),Maryland,39.307302,-76.615688,12,13187,1098.9167,1100.0,156.4425,3270,272.5,253.0,110.8164,0.248,27.6667,9917
+2155,BWI,BWI Thurgood Marshall Airport Station,Maryland,39.192362,-76.6943,3,2446,815.3333,839.0,136.0527,691,230.3333,177.0,114.7098,0.2825,30.6667,1755
+2155,WAS,Washington,District of Columbia,38.896993,-77.006422,12,127575,10631.25,11164.0,1824.604,32188,2682.3333,2833.0,1046.0782,0.2523,29.5833,95387
