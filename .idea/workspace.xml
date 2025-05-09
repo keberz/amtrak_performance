@@ -4,76 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e6e9225-20e6-4b21-8d58-50b41976277b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/amtrak_performance.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/interim/station_performance_metrics-v1p0.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/interim/station_performance_metrics-v1p1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/processed/amtk_stations.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/processed/amtk_sub_services.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/processed/regions_divisions-orig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/processed/regions_divisions.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/processed/state_support_qtr_stats.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/processed/states_provinces.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/processed/station_performance_metrics-v1p2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/FY21%20Q4%20Station%20Performance%20Metrics.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/FY22%20Q1%20Station%20Performance%20Metric.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/FY22%20Q2%20Station%20Performance%20Metric.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/FY22%20Q3%20Station%20Performance%20Metric.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/FY22%20Q4%20Station%20Performance%20Metric.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/FY23%20Q1%20Station%20Performance%20Metric.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/FY23%20Q2%20Station%20Performance%20Metrics.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/FY23%20Q3%20Station%20Performance%20Metric.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/FY23%20Q4%20Station%20Performance%20Metric.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/FY24%20Q1%20Station%20Performance%20Metric.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/FY24%20Q2%20Station%20Performance%20Metric.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/FY24%20Q3%20Station%20Performance%20Metric.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/NTAD_Amtrak_Stations_-3056704789218436106.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/student/fxt-amtk_2154_rte_stats.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/student/fxt-amtk_2155_rte_stats.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/student/fxt-amtk_350_rte_stats.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/student/fxt-amtk_351_rte_stats.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/student/fxt-amtk_352_rte_stats.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/student/fxt-amtk_353_rte_stats.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/student/fxt-amtk_354_rte_stats.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/student/fxt-amtk_355_rte_stats.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/student/fxt-amtk_364_rte_stats.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/student/fxt-amtk_365_rte_stats.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/student/fxt-amtk_370_rte_stats.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/student/fxt-amtk_371_rte_stats.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/student/fxt-amtk_58_rte_stats.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fra_amtrak/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fra_amtrak/amtk_detrain.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fra_amtrak/amtk_frame.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fra_amtrak/amtk_network.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fra_amtrak/chart_bar.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fra_amtrak/chart_box.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fra_amtrak/chart_box_preagg.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fra_amtrak/chart_concat.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fra_amtrak/chart_hist.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fra_amtrak/chart_hist_layer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fra_amtrak/chart_line.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fra_amtrak/chart_title.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notebook.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notebooks/original/01_amtk_stn_combine.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notebooks/original/02_amtk_stn_clean.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notebooks/original/03_amtk_stn_augment.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notebooks/original/04_amtk_stn_explore_network.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notebooks/original/05_amtk_stn_explore_service.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notebooks/original/06_amtk_stn_explore_station.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notebooks/original/07_amtk_stn_explore_train.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notebooks/original/08_amtk_stn_explore_mi_service.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notebooks/solutions/01_amtk_stn_combine_solution.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyproject.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/references/Methodology Report_FY24Q3_web.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/references/USCB-Regions_Divisions.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/references/amtk-network-map-202207.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/combine.py" afterDir="false" />
+    <list default="true" id="9e6e9225-20e6-4b21-8d58-50b41976277b" name="Changes" comment="Updated .gitattributes">
+      <change afterPath="$PROJECT_DIR$/src/clean.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/original/01_amtk_stn_combine.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/original/02_amtk_stn_clean.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/original/03_amtk_stn_augment.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/original/04_amtk_stn_explore_network.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/original/05_amtk_stn_explore_service.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/original/06_amtk_stn_explore_station.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/original/07_amtk_stn_explore_train.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/original/08_amtk_stn_explore_mi_service.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/solutions/01_amtk_stn_combine_solution.ipynb" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,27 +32,47 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;keberz&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/keberz/amtrak_performance&quot;,
+    &quot;accountId&quot;: &quot;169aed3d-63e4-4d8d-972b-f19c6cd62cda&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2wo6MiSaZATdo1eWDaye1fQgsIP" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.combine.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.build&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\PycharmProjects\amtrak_performance" />
+      <recent name="C:\Users\user\PycharmProjects\amtrak_performance\src" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -127,11 +89,37 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1746695532281</updated>
-      <workItem from="1746695534490" duration="623000" />
+      <workItem from="1746695534490" duration="1590000" />
+      <workItem from="1746808090275" duration="304000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1746696966154</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1746696966154</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Updated .gitattributes">
+      <option name="closed" value="true" />
+      <created>1746697082018</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1746697082018</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <MESSAGE value="Updated .gitattributes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated .gitattributes" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/amtrak_performance$combine.coverage" NAME="combine Coverage Results" MODIFIED="1746696651725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
   </component>
 </project>
