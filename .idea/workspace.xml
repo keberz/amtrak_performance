@@ -4,18 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e6e9225-20e6-4b21-8d58-50b41976277b" name="Changes" comment="Updated .gitattributes">
-      <change afterPath="$PROJECT_DIR$/src/clean.py" afterDir="false" />
+    <list default="true" id="9e6e9225-20e6-4b21-8d58-50b41976277b" name="Changes" comment="Added clean.py">
+      <change afterPath="$PROJECT_DIR$/src/augment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/interim/station_performance_metrics-v1p2.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/original/01_amtk_stn_combine.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/original/02_amtk_stn_clean.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/original/03_amtk_stn_augment.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/original/04_amtk_stn_explore_network.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/original/05_amtk_stn_explore_service.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/original/06_amtk_stn_explore_station.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/original/07_amtk_stn_explore_train.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/original/08_amtk_stn_explore_mi_service.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/solutions/01_amtk_stn_combine_solution.ipynb" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,20 +45,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.combine.executor&quot;: &quot;Debug&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.build&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.augment.executor": "Run",
+    "Python.clean.executor": "Run",
+    "Python.combine.executor": "Debug",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "configurable.group.build",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\user\PycharmProjects\amtrak_performance" />
@@ -90,7 +84,8 @@
       <option name="presentableId" value="Default" />
       <updated>1746695532281</updated>
       <workItem from="1746695534490" duration="1590000" />
-      <workItem from="1746808090275" duration="304000" />
+      <workItem from="1746808090275" duration="1031000" />
+      <workItem from="1746985979761" duration="950000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />
@@ -108,7 +103,15 @@
       <option name="project" value="LOCAL" />
       <updated>1746697082018</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added clean.py">
+      <option name="closed" value="true" />
+      <created>1746808692061</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1746808692061</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -117,9 +120,11 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Updated .gitattributes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated .gitattributes" />
+    <MESSAGE value="Added clean.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added clean.py" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/amtrak_performance$clean.coverage" NAME="clean Coverage Results" MODIFIED="1746808559058" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
     <SUITE FILE_PATH="coverage/amtrak_performance$combine.coverage" NAME="combine Coverage Results" MODIFIED="1746696651725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
   </component>
 </project>
