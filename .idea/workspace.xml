@@ -4,10 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e6e9225-20e6-4b21-8d58-50b41976277b" name="Changes" comment="Added clean.py">
-      <change afterPath="$PROJECT_DIR$/src/augment.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data/interim/station_performance_metrics-v1p2.csv" afterDir="false" />
+    <list default="true" id="9e6e9225-20e6-4b21-8d58-50b41976277b" name="Changes" comment="Added augment.py">
+      <change afterPath="$PROJECT_DIR$/src/data/student/fxt-amtk-avg_min_late_predict.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/student/fxt-amtk-chi_qtr_stats.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/student/fxt-amtk-lax_qtr_stats.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/student/fxt-amtk-long_dist_qtr_stats.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/student/fxt-amtk-nec_qtr_stats.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/student/fxt-amtk-network_qtr_stats.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/student/fxt-amtk-nyp_qtr_stats.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/student/fxt-amtk-state_qtr_stats.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/student/fxt-amtk_59_rte_stats.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/student/fxt-amtk_774_rte_stats.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/student/fxt-amtk_777_rte_stats.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/student/stu-amtk-network_qtr_stats.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/explore_network.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fra_amtrak/amtk_detrain.py" beforeDir="false" afterPath="$PROJECT_DIR$/fra_amtrak/amtk_detrain.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +62,7 @@
     "Python.augment.executor": "Run",
     "Python.clean.executor": "Run",
     "Python.combine.executor": "Debug",
+    "Python.explore_network.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "node.js.detected.package.eslint": "true",
@@ -85,7 +98,9 @@
       <updated>1746695532281</updated>
       <workItem from="1746695534490" duration="1590000" />
       <workItem from="1746808090275" duration="1031000" />
-      <workItem from="1746985979761" duration="950000" />
+      <workItem from="1746985979761" duration="1463000" />
+      <workItem from="1747214129284" duration="5635000" />
+      <workItem from="1747293700034" duration="7341000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />
@@ -111,7 +126,15 @@
       <option name="project" value="LOCAL" />
       <updated>1746808692061</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Added augment.py">
+      <option name="closed" value="true" />
+      <created>1746986969472</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1746986969472</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -121,10 +144,24 @@
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Updated .gitattributes" />
     <MESSAGE value="Added clean.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added clean.py" />
+    <MESSAGE value="Added augment.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added augment.py" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/explore_network.py</url>
+          <line>187</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/amtrak_performance$clean.coverage" NAME="clean Coverage Results" MODIFIED="1746808559058" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/amtrak_performance$augment.coverage" NAME="augment Coverage Results" MODIFIED="1746986917837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/amtrak_performance$explore_network.coverage" NAME="explore_network Coverage Results" MODIFIED="1747313039338" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
     <SUITE FILE_PATH="coverage/amtrak_performance$combine.coverage" NAME="combine Coverage Results" MODIFIED="1746696651725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
   </component>
 </project>

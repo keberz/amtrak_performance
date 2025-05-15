@@ -36,7 +36,10 @@ def compute_sum_stats(frame, agg_columns, agg_funcs, precision=4):
         pd.DataFrame: DataFrame of summary statistics for detraining passengers
     """
 
-    pass  # TODO Implement me :)
+    agg_dict = {col: agg_funcs for col in frame.columns if col in agg_columns}
+    summary_stats = frame.agg(agg_dict)
+
+    return summary_stats.round(precision)
 
 
 def compute_sum_stats_by_group(frame, groups, agg_columns, agg_funcs, reset_idx=True, precision=4):
@@ -65,7 +68,20 @@ def compute_sum_stats_by_group(frame, groups, agg_columns, agg_funcs, reset_idx=
         pd.DataFrame: DataFrame of summary statistics for detraining passengers
     """
 
-    pass # TODO Implement me :)
+    # Construct aggregation dictionary for specified columns
+    agg_dict = {col: agg_funcs for col in frame.columns if col in agg_columns}
+
+    # Group by the specified keys and apply aggregation
+    grouped_stats = frame.groupby(groups).agg(agg_dict)
+
+    # Round the results
+    grouped_stats = grouped_stats.round(precision)
+
+    # Reset index if specified
+    if reset_idx:
+        grouped_stats = grouped_stats.reset_index()
+
+    return grouped_stats
 
 
 def flatten_columns(frame):
@@ -101,7 +117,9 @@ def format_year_quarter(row):
         str: Formatted string of fiscal year and quarter
     """
 
-    pass # TODO Implement me :)
+    fiscal_year = int(row["Fiscal Year"])
+    fiscal_quarter = int(row["Fiscal Quarter"])
+    return f"{fiscal_year}Q{fiscal_quarter}"
 
 
 def get_late_to_total_detrain_ratio(frame, precision=4):
@@ -395,4 +413,7 @@ def predict_avg_min_late_by_distance(result, distance_mi):
         float: Predicted average minutes late for late detraining passengers
     """
 
-    pass # TODO Implement me :)
+    if not hasattr(result, "slope") or not hasattr(result, "intercept"):
+        raise ValueError("Result object must have 'slope' and 'intercept' attributes.")
+
+    return result.slope * distance_mi + result.intercept
