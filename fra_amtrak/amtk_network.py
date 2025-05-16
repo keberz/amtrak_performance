@@ -56,7 +56,7 @@ def by_service_line(stations, service_line, year=None, *quarters):
         pd.DataFrame: DataFrame filtered by service, year, and quarters
     """
 
-    pass # TODO Implement me :)
+    return filter_stations(stations, "Service Line", service_line, year, *quarters)
 
 
 def by_station(stations, station_code, year=None, *quarters):

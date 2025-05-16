@@ -89,7 +89,8 @@ def bin_data(frame, column, bins):
 
     # Compute bin start, end, and center
     binned_data["bin_start"] = binned_data["bin"].apply(lambda x: bins[x])
-    binned_data["bin_end"] = binned_data["bin"].apply(lambda x: bins[x + 1])
+    # binned_data["bin_end"] = binned_data["bin"].apply(lambda x: bins[x + 1])
+    binned_data["bin_end"] = binned_data["bin_start"] + 15
     binned_data["bin_center"] = (binned_data["bin_start"] + binned_data["bin_end"]) / 2
 
     return binned_data
