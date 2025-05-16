@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e6e9225-20e6-4b21-8d58-50b41976277b" name="Changes" comment="Added explore_network.py">
-      <change afterPath="$PROJECT_DIR$/src/explore_service.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fra_amtrak/amtk_frame.py" beforeDir="false" afterPath="$PROJECT_DIR$/fra_amtrak/amtk_frame.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fra_amtrak/amtk_network.py" beforeDir="false" afterPath="$PROJECT_DIR$/fra_amtrak/amtk_network.py" afterDir="false" />
-    </list>
+    <list default="true" id="9e6e9225-20e6-4b21-8d58-50b41976277b" name="Changes" comment="Added README.md" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -92,7 +87,7 @@
       <workItem from="1747214129284" duration="5635000" />
       <workItem from="1747293700034" duration="7806000" />
       <workItem from="1747329359979" duration="2249000" />
-      <workItem from="1747379630805" duration="6830000" />
+      <workItem from="1747379630805" duration="7199000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />
@@ -134,7 +129,23 @@
       <option name="project" value="LOCAL" />
       <updated>1747313373017</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Added explore_service.py">
+      <option name="closed" value="true" />
+      <created>1747387750694</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1747387750694</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Added README.md">
+      <option name="closed" value="true" />
+      <created>1747387991002</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1747387991002</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -146,7 +157,9 @@
     <MESSAGE value="Added clean.py" />
     <MESSAGE value="Added augment.py" />
     <MESSAGE value="Added explore_network.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added explore_network.py" />
+    <MESSAGE value="Added explore_service.py" />
+    <MESSAGE value="Added README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added README.md" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/amtrak_performance$explore_service.coverage" NAME="explore_service Coverage Results" MODIFIED="1747383860735" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
