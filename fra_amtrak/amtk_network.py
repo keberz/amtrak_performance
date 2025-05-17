@@ -74,8 +74,7 @@ def by_station(stations, station_code, year=None, *quarters):
         pd.DataFrame: DataFrame filtered by station code, year, and quarters
     """
 
-    pass # TODO Implement me :)
-
+    return filter_stations(stations, "Arrival Station Code", station_code, year, *quarters)
 
 def by_sub_service(stations, sub_service, year=None, *quarters):
     """Return a DataFrame filtered by sub_service and, optionally, year and zero to four specified
@@ -306,4 +305,10 @@ def get_nlargest(frame, column, n_rows=5):
         pd.DataFrame: Largest n rows values in the specified column.
     """
 
-    pass # TODO Implement me :)
+    if column not in frame.columns:
+        raise ValueError(f"Column '{column}' not found in DataFrame.")
+
+    if not isinstance(n_rows, int) or n_rows < 1:
+        raise ValueError("n_rows must be a positive integer.")
+
+    return frame.nlargest(n_rows, column)

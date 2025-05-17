@@ -222,7 +222,18 @@ def drop_dups_and_squeeze(frame, columns):
         pd.Series: Series object
     """
 
-    pass  # TODO Implement me :)
+    if not all(col in frame.columns for col in columns):
+        missing = [col for col in columns if col not in frame.columns]
+        raise ValueError(f"Missing columns in DataFrame: {missing}")
+
+    deduped = frame[columns].drop_duplicates()
+
+    squeezed = deduped.squeeze()
+
+    if not isinstance(squeezed, pd.Series):
+        raise ValueError("Resulting Series is ambiguous — multiple rows remain after deduplication.")
+
+    return squeezed
 
 
 def find_non_numeric_values(data, column):
