@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e6e9225-20e6-4b21-8d58-50b41976277b" name="Changes" comment="Added notebooks">
-      <change afterPath="$PROJECT_DIR$/src/explore_station.py" afterDir="false" />
+    <list default="true" id="9e6e9225-20e6-4b21-8d58-50b41976277b" name="Changes" comment="Added explore_station.py">
+      <change afterPath="$PROJECT_DIR$/src/explore_train.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fra_amtrak/amtk_frame.py" beforeDir="false" afterPath="$PROJECT_DIR$/fra_amtrak/amtk_frame.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/fra_amtrak/amtk_network.py" beforeDir="false" afterPath="$PROJECT_DIR$/fra_amtrak/amtk_network.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,25 +45,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.augment.executor": "Run",
-    "Python.clean.executor": "Run",
-    "Python.combine.executor": "Debug",
-    "Python.explore_network.executor": "Debug",
-    "Python.explore_service.executor": "Run",
-    "Python.explore_station.executor": "Debug",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "configurable.group.build",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.augment.executor&quot;: &quot;Run&quot;,
+    &quot;Python.clean.executor&quot;: &quot;Run&quot;,
+    &quot;Python.combine.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.explore_network.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.explore_service.executor&quot;: &quot;Run&quot;,
+    &quot;Python.explore_station.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.build&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\user\PycharmProjects\amtrak_performance" />
@@ -95,7 +94,9 @@
       <workItem from="1747329359979" duration="2249000" />
       <workItem from="1747379630805" duration="7614000" />
       <workItem from="1747388440583" duration="15000" />
-      <workItem from="1747466281887" duration="5829000" />
+      <workItem from="1747466281887" duration="10007000" />
+      <workItem from="1747548700817" duration="237000" />
+      <workItem from="1747549026392" duration="3000000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />
@@ -161,7 +162,15 @@
       <option name="project" value="LOCAL" />
       <updated>1747388180708</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Added explore_station.py">
+      <option name="closed" value="true" />
+      <created>1747472773028</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1747472773028</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -176,7 +185,8 @@
     <MESSAGE value="Added explore_service.py" />
     <MESSAGE value="Added README.md" />
     <MESSAGE value="Added notebooks" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added notebooks" />
+    <MESSAGE value="Added explore_station.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added explore_station.py" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/amtrak_performance$explore_service.coverage" NAME="explore_service Coverage Results" MODIFIED="1747383860735" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
@@ -184,6 +194,6 @@
     <SUITE FILE_PATH="coverage/amtrak_performance$augment.coverage" NAME="augment Coverage Results" MODIFIED="1746986917837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
     <SUITE FILE_PATH="coverage/amtrak_performance$explore_network.coverage" NAME="explore_network Coverage Results" MODIFIED="1747313039338" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
     <SUITE FILE_PATH="coverage/amtrak_performance$combine.coverage" NAME="combine Coverage Results" MODIFIED="1746696651725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
-    <SUITE FILE_PATH="coverage/amtrak_performance$explore_station.coverage" NAME="explore_station Coverage Results" MODIFIED="1747471895454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/amtrak_performance$explore_station.coverage" NAME="explore_station Coverage Results" MODIFIED="1747472683873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
   </component>
 </project>

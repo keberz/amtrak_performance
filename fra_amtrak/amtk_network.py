@@ -39,7 +39,7 @@ def by_service(stations, service, year=None, *quarters):
         pd.DataFrame: DataFrame filtered by service, year, and quarters
     """
 
-    pass # TODO Implement me :)
+    return filter_stations(stations, "Service", service, year, *quarters)
 
 
 def by_service_line(stations, service_line, year=None, *quarters):
@@ -90,7 +90,7 @@ def by_sub_service(stations, sub_service, year=None, *quarters):
         pd.DataFrame: DataFrame filtered by sub service, year, and quarters
     """
 
-    pass # TODO Implement me :)
+    return filter_stations(stations, "Sub Service", sub_service, year, *quarters)
 
 
 def by_train_number(stations, train_number, year=None, *quarters):
@@ -107,7 +107,7 @@ def by_train_number(stations, train_number, year=None, *quarters):
         pd.DataFrame: DataFrame filtered by train number, year, and quarters
     """
 
-    pass # TODO Implement me :)
+    return filter_stations(stations, "Train Number", train_number, year, *quarters)
 
 
 def create_route(train, direction, station_order=None):
